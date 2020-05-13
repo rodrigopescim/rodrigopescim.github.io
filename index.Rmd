@@ -99,7 +99,7 @@ Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação 
 
 ****
 
-# Disciplina: Planejamento de Experiemntos em Engenharia
+# Disciplina: Planejamento de Experimentos em Engenharia
 
 ****
 
