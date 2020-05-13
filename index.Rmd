@@ -120,4 +120,3 @@ Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação 
 <br><br>
 
 ****
-
