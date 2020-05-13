@@ -35,15 +35,15 @@ code.r, pre {font-size: 14px;
 
 ![](imagem.jpg)
 
-**Resumo do curr�?culo**: Possui graduação em Matemática pela UNESP campus Rio Claro/SP, mestrado e doutorado em Ciências (Estat�?stica e Experimentação Agronômica) pela Universidade de São Paulo com bolsa de doutorado sandu�?che na University of Manchester, Reino Unido, sob orientação do Prof. Dr. Saralees Nadarajah.
+**Resumo do currículo**: Possui graduação em Matemática pela UNESP campus Rio Claro/SP, mestrado e doutorado em Ciências (Estatística e Experimentação Agronômica) pela Universidade de São Paulo com bolsa de doutorado sanduíche na University of Manchester, Reino Unido, sob orientação do Prof. Dr. Saralees Nadarajah.
 
-**Atuação**: Professor Adjunto B do Departamento de Estat�?stica da Universidade Estadual de Londrina, UEL. 
+**Atuação**: Professor Adjunto B do Departamento de Estatística da Universidade Estadual de Londrina, UEL. 
 
-**Experiência**: Tem experiência na área de Probabilidade e Estat�?stica, com ênfase em distribuições de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados de contagem.
+**Experiência**: Tem experiência na área de Probabilidade e Estatística, com ênfase em distribuições de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados de contagem.
 
 **e-mail**: rrpescim@uel.br
 
-**Telefone***: (43) 3371-4932
+**Telefone**: (43) 3371-4932
 
 </div>
 
@@ -51,7 +51,7 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# Curr�?culo
+# Currículo
 
 *****
 
@@ -59,15 +59,15 @@ code.r, pre {font-size: 14px;
 
 <br>
 
-**Mestre em Ciências, Estat�?stica e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Clarice Garcia Borges Demétrio.
+**Mestre em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Clarice Garcia Borges Demétrio.
 
 <br>
 
-**Doutor em Ciências, Estat�?stica e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Clarice Garcia Borges Demétrio.
+**Doutor em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Clarice Garcia Borges Demétrio.
 
 <br>
 
-Link para o Curr�?culo Lattes: [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ)
+Link para o Currículo Lattes: [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ)
 
 ****
 
@@ -80,9 +80,9 @@ Link para o Curr�?culo Lattes: [CV Lattes](http://buscatextual.cnpq.br/buscatext
 ![](r.png){width=70%}
 
 
-R é uma linguagem e um ambiente de desenvolvimento integrado, livre e gratuito de programação especializada em manipulação, análise e visualização gráfica de dados. Na atualidade é considerado o melhor ambiente computacional para essa finalidade. O ambiente está dispon�?vel para diferentes sistemas operacionais: Unix/Linux, Mac e Windows.
+R é uma linguagem e um ambiente de desenvolvimento integrado, livre e gratuito de programação especializada em manipulação, análise e visualização gráfica de dados. Na atualidade é considerado o melhor ambiente computacional para essa finalidade. O ambiente está disponível para diferentes sistemas operacionais: Unix/Linux, Mac e Windows.
 
-Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento de Estat�?stica da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de seus usuários em vários locais do mundo.
+Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento de Estatística da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de seus usuários em vários locais do mundo.
 
 </div>
 
@@ -90,7 +90,7 @@ Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento d
 
 Quando o objetivo é inserir dados ou programar uma função,
 isso pode ser realizado de forma direta no R.
-Porém não será poss�?vel editá-las, e nem executá-las novamente.
+Porém não será possível editá-las, e nem executá-las novamente.
 Neste sentido, uma alternativa é programar os códigos em um editor próprio para o software R. O Rstudio é um editor dinâmico, num ambiente integrado e de fácil utilização.
 Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação do R](https://cran.r-project.org/) e [Instalação do RStudio](https://rstudio.com/products/rstudio/download/).
 
@@ -103,15 +103,15 @@ Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação 
 
 ****
 
-- **Material Estat�?stica Básica:** [Estat�?stica Descritiva e Inferência Estat�?stica](aula_1_remota_Estatistica_basica_2020.pdf)
+- **Material Estatística Básica:** [Estatística Descritiva e Inferência Estatística](aula_1_remota_Estatistica_basica_2020.pdf)
 
 - **Material Teste de Hipóteses:** [Teste t-Student](Aula_2_testes_hipoteses.pdf)
 
-# V�?deos para as Aulas Teóricas/Práticas
+# Vídeos para as Aulas Teóricas/Práticas
 
 ****
 
- - **Estat�?stica Básica:**  [Aula Teórica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula Teórica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
+ - **Estatística Básica:**  [Aula Teórica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula Teórica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
 [Aula Prática](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s).
  
  - **Teste de Hipóteses:** [Aula Teórica I](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Aula Teórica II](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Aula Prática I](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Aula Prática II](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
