@@ -103,20 +103,24 @@ Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação 
 
 ****
 
-- **Material Estatística Básica:** [Estatística Descritiva e Inferência Estatística](aula_1_remota_Estatistica_basica_2020.pdf)
+- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf)
 
-- **Material Teste de Hipóteses:** [Teste t-Student](Aula_2_testes_hipoteses.pdf)
-
-# Vídeos para as Aulas Teóricas/Práticas
+- **Vídeos-Aulas:**  [Estatística Básica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Estatística Básica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s),
+[Estatística Básica no R](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s),
+[Teste de Hipóteses I](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Teste de Hipóteses II](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Teste de Hipóteses I no R](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Teste de Hipóteses II no R](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
+ 
 
 ****
 
- - **Estatística Básica:**  [Aula Teórica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula Teórica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
-[Aula Prática](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s).
- 
- - **Teste de Hipóteses:** [Aula Teórica I](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Aula Teórica II](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Aula Prática I](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Aula Prática II](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
- 
+# Disciplina: Estatística Matemática I
+
+****
+
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf)
+
+- **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
 <br><br>
 
 ****
+
