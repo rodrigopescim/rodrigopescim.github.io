@@ -120,6 +120,8 @@ Para mais detalhes sobre o software R e seu editor, ver os links: [Instalação 
 
 - **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
+- **Modelo Epidemiológico:** [Projeções](pagR101.html)
+
 <br><br>
 
 ****
