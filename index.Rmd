@@ -101,7 +101,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-# Evolução dos Casos para Londrina-PR
+# Previsão dos Casos Confirmados para Londrina-PR
 
 ****
 
