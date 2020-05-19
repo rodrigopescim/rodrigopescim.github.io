@@ -101,7 +101,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-# Previsão dos Casos Confirmados para Londrina-PR
+# Previsão dos Casos para Londrina-PR
 
 ****
 
@@ -110,7 +110,12 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 - **Modelo 1 Epidemiológico para UTI:** [Projeção R103 - UTI](DashLondrinaUTIR103.html)
 - **Modelo 2 Epidemiológico para UTI:** [Projeção R105 - UTI](DashLondrinaUTIR105.html)
 
+****
 
+# Previsão dos Casos para 17a Regional de saúde do Paraná
+
+****
+- **Modelo 1 Epidemiológico:** [Projeção R106](DashRegional106.html)
 
 <br><br>
 
