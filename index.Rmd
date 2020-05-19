@@ -105,8 +105,12 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Modelo 1 Epidemiológico:** [Projeção R103](DashLondrinaR103.html)
-- **Modelo 2 Epidemiológico:** [Projeção R105](DashLondrina105.html)
+- **Modelo 1 Epidemiológico:** [Projeção Casos/Leitos R103](DashLondrinaR103.html)
+- **Modelo 2 Epidemiológico:** [Projeção Casos/Leitos R105](DashLondrina105.html)
+- **Modelo 3 Epidemiológico:** [Projeção Casos R105](DashLondrina105Casos.html)
+
+****
+
 - **Modelo 1 Epidemiológico para UTI:** [Projeção R103 - UTI](DashLondrinaUTIR103.html)
 - **Modelo 2 Epidemiológico para UTI:** [Projeção R105 - UTI](DashLondrinaUTIR105.html)
 
