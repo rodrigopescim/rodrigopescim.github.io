@@ -107,10 +107,10 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Modelo 1 Epidemiológico:** [Projeção 1](DashLondrinaR103.html)
-- **Modelo 2 Epidemiológico:** [Projeção 2](DashLondrina105.html)
-- **Modelo 1 Epidemiológico para UTI:** [Projeção 1 - UTI](DashLondrinaUTIR103.html)
-- **Modelo 2 Epidemiológico para UTI:** [Projeção 2 - UTI](DashLondrinaUTIR105.html)
+- **Modelo 1 Epidemiológico:** [Projeção R103](DashLondrinaR103.html)
+- **Modelo 2 Epidemiológico:** [Projeção R105](DashLondrina105.html)
+- **Modelo 1 Epidemiológico para UTI:** [Projeção R103 - UTI](DashLondrinaUTIR103.html)
+- **Modelo 2 Epidemiológico para UTI:** [Projeção R105 - UTI](DashLondrinaUTIR105.html)
 
 
 ****
@@ -118,10 +118,10 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 # Evolução dos Casos para 17$^{a}$ Regional de saúde
 
 ****
-- **Modelo 1 Epidemiológico:** [Projeção 1](DashRegionalR102.html)
-- **Modelo 2 Epidemiológico:** [Projeção 2](DashRegional103.html)
-- **Modelo 1 Epidemiológico para UTI:** [Projeção 1 - UTI](DashRegionalUTIR102.html)
-- **Modelo 2 Epidemiológico para UTI:** [Projeção 2 - UTI](DashRegUTI103.html)
+- **Modelo 1 Epidemiológico:** [Projeção R102](DashRegionalR102.html)
+- **Modelo 2 Epidemiológico:** [Projeção R103](DashRegional103.html)
+- **Modelo 1 Epidemiológico para UTI:** [Projeção R102 - UTI](DashRegionalUTIR102.html)
+- **Modelo 2 Epidemiológico para UTI:** [Projeção R103 - UTI](DashRegUTI103.html)
 
 
 <br><br>
