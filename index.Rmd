@@ -101,10 +101,28 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ## COVID-19
 
-- **Modelo 1 Epidemiológico para Londrina:** [Projeção 1](DashLondrinaR103.html)
-- **Modelo 2 Epidemiológico para Londrina:** [Projeção 2](DashLondrina105.html)
-- **Modelo 1 Epidemiológico para UTI Londrina:** [Projeção 1 - UTI ](DashLondrinaUTIR103.html)
-- **Modelo 2 Epidemiológico para UTI Londrina:** [Projeção 2 - UTI](DashLondrinaUTIR105.html)
+****
+
+# Evolução dos Casos para Londrina-PR
+
+****
+
+- **Modelo 1 Epidemiológico:** [Projeção 1](DashLondrinaR103.html)
+- **Modelo 2 Epidemiológico:** [Projeção 2](DashLondrina105.html)
+- **Modelo 1 Epidemiológico para UTI:** [Projeção 1 - UTI](DashLondrinaUTIR103.html)
+- **Modelo 2 Epidemiológico para UTI:** [Projeção 2 - UTI](DashLondrinaUTIR105.html)
+
+
+****
+
+# Evolução dos Casos para 17$^{a}$ Regional de saúde
+
+****
+- **Modelo 1 Epidemiológico:** [Projeção 1](DashRegionalR102.html)
+- **Modelo 2 Epidemiológico:** [Projeção 2](DashRegional103.html)
+- **Modelo 1 Epidemiológico para UTI:** [Projeção 1 - UTI](DashRegionalUTIR102.html)
+- **Modelo 2 Epidemiológico para UTI:** [Projeção 2 - UTI](DashRegUTI103.html)
+
 
 <br><br>
 
