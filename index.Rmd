@@ -147,7 +147,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 - **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
-- **Vídeo-aulas:** [Propriedades de Probabilidade I](https://www.youtube.com/watch?v=veTEhdxF2RM)
+- **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM)
 
 <br><br>
 
