@@ -67,9 +67,7 @@ code.r, pre {font-size: 14px;
 
 <br>
 
-Link para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ)
-
-Link para o [Google Scholar](https://scholar.google.com/citations?user=eRIuUTkAAAAJ&hl=pt-BR&oi=ao).
+Links para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ) e [Google Scholar](https://scholar.google.com/citations?user=eRIuUTkAAAAJ&hl=pt-BR&oi=ao)
 
 ****
 
@@ -115,7 +113,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-# Evolução dos Casos para 17$^{a}$ Regional de saúde
+# Evolução dos Casos para 17a Regional de saúde do Paraná
 
 ****
 - **Modelo 1 Epidemiológico:** [Projeção R102](DashRegionalR102.html)
@@ -134,7 +132,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 - **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf)
 
-- **Vídeos-Aulas:**  [Estatística Básica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Estatística Básica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s),
+- **Vídeo-Aulas:**  [Estatística Básica I](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Estatística Básica II](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s),
 [Estatística Básica no R](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s),
 [Teste de Hipóteses I](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Teste de Hipóteses II](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Teste de Hipóteses I no R](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Teste de Hipóteses II no R](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
  
@@ -149,7 +147,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 - **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
-
+- **Vídeo-aulas:** [Propriedades de Probabilidade I](https://www.youtube.com/watch?v=veTEhdxF2RM)
 
 <br><br>
 
