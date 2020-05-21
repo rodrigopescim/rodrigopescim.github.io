@@ -119,7 +119,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 # Previsão dos Casos para 17a Regional de saúde do Paraná
 
 ****
-- **Modelo 1 Epidemiológico:** [Projeção R106](DashRegional106.html)
+- **Modelo 1 Epidemiológico:** [Projeção R105](Dash17Reg20052020.html)
 
 <br><br>
 
