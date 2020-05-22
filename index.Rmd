@@ -129,17 +129,17 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf)
+- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf)
 
 - **Vídeo-Aulas:** 
 
 Estatística Básica: [Aula 1](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula 2](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
-[Aula no R](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s),
+[Aula no R](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s).
 
 
 Teste de Hipóteses: [Aula 1](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Aula 2](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Aula 1 no R](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Aula 2 no R](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
 
-Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTUEE&t=977s), [Aula 2](https://www.youtube.com/watch?v=Eadzwncm9iM) e [Aula 3](https://www.youtube.com/watch?v=TG1_TFsjzpc&t=668s)
+Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTUEE&t=977s), [Aula 2](https://www.youtube.com/watch?v=Eadzwncm9iM) e [Aula 3](https://www.youtube.com/watch?v=TG1_TFsjzpc&t=668s).
  
 
 ****
