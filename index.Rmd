@@ -105,7 +105,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Modelo 1 Epidemiológico:** [Projeção de Casos em Londrina](DashLondrina106.html)
+- **Modelo Epidemiológico:** [Projeção de Casos em Londrina](DashLondrina106.html)
 
 
 ****
@@ -114,7 +114,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Modelo 1 Epidemiológico:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
+- **Modelo Epidemiológico:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
 
 ****
 
