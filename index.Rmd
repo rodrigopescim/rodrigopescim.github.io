@@ -143,7 +143,7 @@ Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTU
 
 ****
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatorias](variavel_aleatoria.pdf)
 
 - **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
