@@ -105,9 +105,9 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Proje��o de Casos em Londrina :** [Cen�rio Otimista](DashLd107.html)
+- **Projeção de Casos em Londrina :** [Cenário Otimista](DashLd107.html)
 
-- **Proje��o de Casos em Londrina:** [Cen�rio Pessimista](DashLd113.html)
+- **Projeção de Casos em Londrina:** [Cenário Pessimista](DashLd113.html)
 
 
 ****
@@ -116,7 +116,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Proje��o de Casos Confirmados:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
+- **Projeção de Casos Confirmados:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
 
 ****
 
