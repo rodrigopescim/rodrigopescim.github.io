@@ -107,6 +107,8 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 - **Modelo Epidemiológico Otimista:** [Projeção de Casos em Londrina](DashLd107.html)
 
+- **Modelo Epidemiológico Pessimista:** [Projeção de Casos em Londrina](DashLd113.html)
+
 
 ****
 
