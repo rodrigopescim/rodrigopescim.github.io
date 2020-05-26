@@ -116,7 +116,9 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 - **Projeção de Casos Confirmados:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
 
-- **Projeção de Leitos de UTI:** [Projeção de Leitos/UTI na 17a Regional](Dash17Leitos21052020.html)
+- **Hospitalização:** [Internações na 17a Regional](Dash17Dia82.html)
+
+
 
 ****
 
