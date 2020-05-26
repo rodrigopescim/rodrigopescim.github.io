@@ -1,2 +1,2 @@
-# http://rodrigopescim.github.i
+# http://rodrigopescim.github.io
 Webpage do Professor Rodrigo Pescim
