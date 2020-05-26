@@ -105,9 +105,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Projeção de Casos em Londrina :** [Cenário Otimista](DashLd107.html)
-
-- **Projeção de Casos em Londrina:** [Cenário Pessimista](DashLd113.html)
+- **Projeção de Casos Confirmados em Londrina :** [Cenário Otimista](DashLd107.html) ; [Cenário Pessimista](DashLd113.html)
 
 
 ****
@@ -117,6 +115,8 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 ****
 
 - **Projeção de Casos Confirmados:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
+
+- **Projeção de Leitos de UTI:** [Projeção de Leitos/UTI na 17a Regional](Dash17Leitos21052020.html)
 
 ****
 
@@ -143,7 +143,7 @@ Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTU
 
 ****
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatorias](variavel_aleatoria.pdf)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf)
 
 - **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
 
