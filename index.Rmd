@@ -128,7 +128,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf)
+- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf)
 
 - **vídeo-Aulas:** 
 
