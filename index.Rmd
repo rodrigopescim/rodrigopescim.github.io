@@ -105,20 +105,18 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Projeção de Casos Confirmados em Londrina :** [Cenário Otimista](DashLd306R106.html) ; [Cenário Pessimista](DashLd113.html)
+- **Projeção de Casos Confirmados em Londrina :** [Cenário R$_0$ = 1.02 ](Dash0206R102.html) ; [Cenário R$_0$ = 1.06](Dash0206R106.html) ; [Cenário R$_0$ = 1.07](Dash0206R107.html) ; [Cenário R$_0$ = 1.13](Dash0206R113.html)
 
 
 ****
 
-# Previsão dos Casos para 17a Regional de Saúde do Paraná
+# Previsão dos Casos para 17$^{a}$ Regional de Saúde do Paraná
 
 ****
 
-- **Projeção de Casos Confirmados:** [Projeção de Casos na 17a Regional](Dash17Reg20052020.html)
+- **Projeção de Casos de SRAG/COVID-19 na 17a Regional:** [Projeção dos Casos](SragCovid170206.html)
 
-- **Hospitalização 1:** [Internações na 17a Regional](Dash17Dia82.html)
 
-- **Hospitalização 2:** [Internações na 17a Regional](Dash17LeitosDia85.html)
 
 
 
