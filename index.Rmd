@@ -147,9 +147,9 @@ Delineamento Inteiramente Casualizado: [Aula 1](https://www.youtube.com/watch?v=
 
 ****
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf)
 
-- **Lista de Exercícios:** [Lista I](Lista1_exercicios_Estatistica_Matematica.pdf)
+- **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf)
 
 - **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM)
 
