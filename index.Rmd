@@ -105,7 +105,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Projeção de Casos Confirmados em Londrina :** [Cenário R$_0$ = 1.02 ](Dash0206R102.html) ; [Cenário R$_0$ = 1.06](Dash0206R106.html) ; [Cenário R$_0$ = 1.07](Dash0206R107.html) ; [Cenário R$_0$ = 1.13](Dash0206R113.html)
+- **Projeção de Casos Confirmados em Londrina :** [Cenário R$_0$ = 1.07 ](DashLdR107.html) ; [Cenário R$_0$ = 1.13](DashLdR113.html) ; [Cenário R$_0$ = 1.038](DashLdR1038.html) 
 
 
 ****
