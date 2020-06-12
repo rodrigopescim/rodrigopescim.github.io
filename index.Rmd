@@ -97,36 +97,13 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 <br><br>
 
-## COVID-19
-
-****
-
-# Previsão dos Casos para Londrina-PR
-
-****
-
-- **Projeção de Casos Confirmados em Londrina :** [Cenário R$_0$ = 1.07 ](DashLdR107.html) ; [Cenário R$_0$ = 1.13](DashLdR113.html) ; [Cenário R$_0$ = 1.038](DashLdR1038.html) 
-
-
-****
-
-# Previsão dos Casos para 17$^{a}$ Regional de Saúde do Paraná
-
-****
-
-- **Projeção de Casos de SRAG/COVID-19 na 17a Regional:** [Projeção dos Casos](SragCovid170206.html)
-
-
-
-
-
 ****
 
 # Disciplina: Planejamento de Experimentos em Engenharia
 
 ****
 
-- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf)
+- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf)
 
 - **vídeo-Aulas:** 
 
@@ -139,7 +116,8 @@ Teste de Hipóteses: [Aula 1](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s)
 Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTUEE&t=977s), [Aula 2](https://www.youtube.com/watch?v=Eadzwncm9iM) e [Aula 3](https://www.youtube.com/watch?v=TG1_TFsjzpc&t=668s).
 
 Delineamento Inteiramente Casualizado: [Aula 1](https://www.youtube.com/watch?v=Qd_W29PhRFQ) e [Aula 2](https://www.youtube.com/watch?v=UvMME37lzUE&t=820s). 
- 
+
+Delineamento em Blocos Casualizados: [Aula DBC no R](https://www.youtube.com/watch?v=RDU8iSMLzuw&t=24s).
 
 ****
 
