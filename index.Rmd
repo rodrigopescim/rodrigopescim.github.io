@@ -103,7 +103,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf)
+- **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf), [Ensaios Fatoriais](fatorial_mestrado.pdf), [Correlação X Causa](correlacao_causa.pdf), [Regressão Linear Simples](modelos_regressao.pdf), [Regressão Linear Múltipla](regressao_multipla.pdf)
 
 - **vídeo-Aulas:** 
 
@@ -119,17 +119,23 @@ Delineamento Inteiramente Casualizado: [Aula 1](https://www.youtube.com/watch?v=
 
 Delineamento em Blocos Casualizados: [Aula DBC no R](https://www.youtube.com/watch?v=RDU8iSMLzuw&t=24s).
 
+Ensaios Fatoriais: [Aula Ensaio Fatoriais no R]().
+
+Transformação de dados: [Anova: Transformação de Dados no R](https://www.youtube.com/watch?v=5iPFKW4zC1I&t=63s).
+
+Introdução à Regressão Linear: [Modelos de Regressão](https://www.youtube.com/watch?v=YmkVJHnVs-Y&t=236s).
+
 ****
 
 # Disciplina: Estatística Matemática I
 
 ****
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [Função Geradora de Momentos](fgm.pdf)
 
 - **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf)
 
-- **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM)
+- **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), [Função Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s)
 
 <br><br>
 
