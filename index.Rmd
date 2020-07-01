@@ -119,7 +119,7 @@ Delineamento Inteiramente Casualizado: [Aula 1](https://www.youtube.com/watch?v=
 
 Delineamento em Blocos Casualizados: [Aula DBC no R](https://www.youtube.com/watch?v=RDU8iSMLzuw&t=24s).
 
-Ensaios Fatoriais: [Aula Ensaio Fatoriais no R]().
+Ensaios Fatoriais: [Aula Ensaio Fatoriais no R](https://www.youtube.com/watch?v=7s84Dvh96vM).
 
 Transformação de dados: [Anova: Transformação de Dados no R](https://www.youtube.com/watch?v=5iPFKW4zC1I&t=63s).
 
