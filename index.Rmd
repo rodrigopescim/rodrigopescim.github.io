@@ -112,6 +112,22 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s)
 
+
+****
+
+# Disciplinas: Pós Graduação (Especialização em Estatística - UEL)
+
+****
+
+
+## STA060 - Probabilidade
+
+- **Material:** [https://rodrigopescim.github.io/STA060_Probabilidade/](https://rodrigopescim.github.io/STA060_Probabilidade/)
+
+
+- **vídeo-Aulas:** 
+
+
 ****
 
 # Disciplinas: Pós Graduação (Mestrado/Doutorado)
