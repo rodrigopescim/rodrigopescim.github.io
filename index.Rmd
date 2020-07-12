@@ -99,9 +99,28 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-# Disciplina: Planejamento de Experimentos em Engenharia
+# Disciplinas: Graduação 
 
 ****
+
+
+## 6EMA025 - Estatística e Probabilidades
+
+- **Material:** [Introdução à Estatística](Introducao_Estatistica.pdf)
+
+- **vídeo-Aulas:** 
+
+Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s)
+
+****
+
+# Disciplinas: Pós Graduação (Mestrado/Doutorado)
+
+****
+
+
+## 2CIV083 - Planejamento de Experimentos em Engenharia
+
 
 - **Material:** [Estatística Básica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de Hipóteses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf), [Ensaios Fatoriais](fatorial_mestrado.pdf), [Correlação X Causa](correlacao_causa.pdf), [Regressão Linear Simples](modelos_regressao.pdf), [Regressão Linear Múltipla](regressao_multipla.pdf)
 
@@ -125,15 +144,13 @@ Transformação de dados: [Anova: Transformação de Dados no R](https://www.you
 
 Introdução à Regressão Linear: [Modelos de Regressão](https://www.youtube.com/watch?v=YmkVJHnVs-Y&t=236s).
 
-****
 
-# Disciplina: Estatística Matemática I
+## 2MAT336 - Estatística Matemática I
 
-****
 
 - **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [Função Geradora de Momentos](fgm.pdf)
 
-- **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf)
+- **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf), [Lista 3](Lista3_exercicios_Estatistica_Matematica_2020.pdf)
 
 - **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), [Função Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s)
 
