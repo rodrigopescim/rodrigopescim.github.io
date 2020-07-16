@@ -130,7 +130,7 @@ Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1
 
 ## STA060 - Probabilidade
 
-- **Material:** [https://rodrigopescim.github.io/STA060_Probabilidade/](https://rodrigopescim.github.io/STA060_Probabilidade/)
+- **Material:** [https://rodrigopescim.github.io/STA060-Probabilidade/]( https://rodrigopescim.github.io/STA060-Probabilidade/)
 
 
 - **vídeo-Aulas:** 
