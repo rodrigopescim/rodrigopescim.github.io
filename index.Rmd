@@ -67,7 +67,7 @@ code.r, pre {font-size: 14px;
 
 <br>
 
-Links para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ) e [Google Scholar](https://scholar.google.com/citations?user=eRIuUTkAAAAJ&hl=pt-BR&oi=ao).
+Links para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ) \ e \ [Google Scholar](https://scholar.google.com/citations?user=eRIuUTkAAAAJ&hl=pt-BR&oi=ao).
 
 ****
 
@@ -92,7 +92,7 @@ Quando o objetivo é inserir dados ou programar uma função,
 isso pode ser realizado de forma direta no R.
 Porém não será possível editá-las, e nem executá-las novamente.
 Neste sentido, uma alternativa é programar os códigos em um editor próprio para o software R. O Rstudio é um editor dinâmico, num ambiente integrado e de fácil utilização.
-Para mais detalhes sobre a instalação do software R e seu editor, ver os links: [Instalação do R](https://cran.r-project.org/) e [Instalação do RStudio](https://rstudio.com/products/rstudio/download/).
+Para mais detalhes sobre a instalação do software R e seu editor, ver os links: [Instalação do R](https://cran.r-project.org/) \ e \ [Instalação do RStudio](https://rstudio.com/products/rstudio/download/).
 
 
 <br><br>
@@ -114,11 +114,13 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ## 6EMA025 - Estatística e Probabilidades
 
-- **Material:** [Introdução à Estatística](Introducao_Estatistica.pdf)
+- **Material:** [Introdução à Estatística](Introducao_Estatistica.pdf), \ [Estatística Descritiva](aula_1_Estatistica_basica.pdf)
 
 - **vídeo-Aulas:** 
 
-Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s)
+Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s).
+
+Estatística Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=865s), \ [Aula 2](https://www.youtube.com/watch?v=LQsr3k1kTF0&t=32s), \ [Aula 3](https://www.youtube.com/watch?v=VxnAU4e0ego&t=23s)
 
 
 ****
