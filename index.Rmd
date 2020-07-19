@@ -178,7 +178,9 @@ Introdução à Regressão Linear: [Modelos de Regressão](https://www.youtube.c
 
 - **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf), [Lista 3](Lista3_exercicios_Estatistica_Matematica_2020.pdf)
 
-- **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), [Função Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s)
+- **Vídeo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), \ [Função Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s), \ [Distribuições de Funções de Variáveis Aleatórias](https://www.youtube.com/watch?v=OC3XE9RLAFE&feature=youtu.be)
+
+
 
 <br><br>
 
