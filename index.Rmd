@@ -120,7 +120,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 Introdução à Estatística: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s).
 
-Estatística Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=865s), \ [Aula 2](https://www.youtube.com/watch?v=LQsr3k1kTF0&t=32s), \ [Aula 3](https://www.youtube.com/watch?v=VxnAU4e0ego&t=23s)
+Estatística Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=865s), \ [Aula 2](https://www.youtube.com/watch?v=LQsr3k1kTF0&t=32s), \ [Aula 3](https://www.youtube.com/watch?v=VxnAU4e0ego&t=23s), \ [Aula 4](https://www.youtube.com/watch?v=NA1r_OMMxJk&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na&index=7&t=389s)
 
 
 ****
@@ -135,7 +135,7 @@ Estatística Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=
 - **Material:** [https://rodrigopescim.github.io/STA060-Probabilidade/]( https://rodrigopescim.github.io/STA060-Probabilidade/)
 
 
-- **vídeo-Aulas:** 
+- **vídeo-Aulas:** [Introdução à Probabilidade - Aula 1](https://www.youtube.com/watch?v=J-7h4XN5NHM&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2&t=1186s), \ [Introdução à Probabilidade - Aula 2](https://www.youtube.com/watch?v=NwMw3SsF22I&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2), \ [Definição Clássica de Probabilidade](https://www.youtube.com/watch?v=fBKgbrnJ5Fs&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=3), \  [Definição Frequentista de Probabilidade](https://www.youtube.com/watch?v=OyL3_S2aZig&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=4), \  [Axiomas de Kolmogorov](https://www.youtube.com/watch?v=EMTn9l_3ZcI&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=5), \ 
 
 
 ****
