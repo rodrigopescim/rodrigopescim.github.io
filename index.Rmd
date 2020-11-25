@@ -103,7 +103,7 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 
 ****
 
-[Casos Internação](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [DashR110](DashR110.html) ; [Dash45](Dash45Casos.html) ; [Dash54](Dash54Casos.html) ; [DashR110R107](DashR110R107.html) ; [Razão Diária](RazaoDiaria.html)
+[Casos Internação](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash45](Dash45Casos.html) ; [Dash54](Dash54Casos.html) ; [DashR110R107](DashR110R107.html) ; [Razão Diária](RazaoDiaria.html)
 
 
 
