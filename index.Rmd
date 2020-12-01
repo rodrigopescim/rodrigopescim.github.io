@@ -102,10 +102,15 @@ Para mais detalhes sobre a instalação do software R e seu editor, ver os links
 # COVID-19 - Londrina 
 
 ****
+Semana 16/11/2020 - 23/11/2020
+
 
 [Casos Internação](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash85Casos](Dash85Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
 
+****
+Semana 23/11/2020 - 30/11/2020
 
+[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash85Casos](Dash85Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
 
 ****
 
