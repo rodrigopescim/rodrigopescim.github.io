@@ -110,7 +110,9 @@ Semana 16/11/2020 - 23/11/2020
 ****
 Semana 23/11/2020 - 30/11/2020
 
-[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_Dez.html) ; [Casos Novembro](CasosNovembro.html) ; [Dash100Casos](Dash100Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
+[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_Dez.html) ; [Casos Novembro](CasosNovembro.html) ; [Dash100Casos](Dash100Casos.html) ; [Dash150Casos](Dash150Casos.html) ; [Dash1165pct](Dash1165pct.html) ; [DashR0100](DashR0100.html) 
+
+
 
 ****
 
