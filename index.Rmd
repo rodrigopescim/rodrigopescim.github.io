@@ -117,6 +117,10 @@ Semana 01/12/2020 - 08/12/2020
 
 [Casos Internação](Casos_Internacoes_08Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_08Dez.html) ; [Razão Diária](Razao_Diaria_08Dez.html) ; [Razão Mensal](Razao_Mensal_08Dez.html) ; [Dash150Casos](Dash150Casos_08Dez.html) ; [Dash120e100R115](Dash120e100R115_08Dez.html) ; [Dash120](Dash120_08Dez.html) ; [Dash100Casos](Dash100Casos_10Dez.html)
 
+****
+Semana 08/12/2020 - 15/12/2020
+
+[Casos Internação](Casos_Internacoes_15Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_15Dez.html) ; [Razão Diária](Razao_Diaria_08Dez.html) ; [Razão Mensal](Razao_Mensal_08Dez.html) ; [Dash150Casos](Dash150Casos_08Dez.html) ; [Dash120e100R115](Dash120e100R115_08Dez.html) ; [Dash120](Dash120_08Dez.html) ; [Dash100Casos](Dash100Casos_10Dez.html)
 
 
 
