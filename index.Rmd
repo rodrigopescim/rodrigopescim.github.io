@@ -124,7 +124,7 @@ Semana 08/12/2020 - 15/12/2020
 
 Semana 15/12/2020 - 22/12/2020
 
-[Casos Internação](CasosInternacoes_22Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos Média Móvel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [Razão Diária](Razao_Diaria_15Dez.html) ; [Razão Mensal](Razao_Mensal_15Dez.html) ; [Dash150Casos](Dash150_15Dez.html) ; [Dash175Casos](Dash175_15Dez.html) ; [Dash200Casos](Dash200_15Dez.html) ; [Dash300Regional](Dash300Regional_15Dez.html) ; [DashCurvas](DashCurvas_15Dez.html)
+[Casos Internação](CasosInternacoes_22Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos Média Móvel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [Razão Diária](RazaoDiaria_22Dez.html) ; [Razão Mensal](RazaoMensal_22Dez.html) ; [DashR0](DashR0_22Dez.html) ; [Dash150Casos](Dash150_15Dez.html) ; [Dash175Casos](Dash175_15Dez.html) ; [Dash200Casos](Dash200_15Dez.html) ; [Dash300Regional](Dash300Regional_15Dez.html)
 
 
 
