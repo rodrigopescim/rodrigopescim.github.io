@@ -133,6 +133,11 @@ Semana 22/12/2020 - 29/12/2020
 
 [Casos Internação](CasosInternacaoes_29Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_29Dez.html) ; [Projeção R0](DashR0_29Dez.html) ; [Projeção 175 Casos - Londrina](Dash175_29Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_29Dez.html) ; [Projeção de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [Projeção 300 Casos - Londrina](Dash300Casos_29Dez.html) 
 
+****
+Semana 29/12/2020 - 05/01/2021
+
+[Casos Internação](CasosInternacaoes_05Jan21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_05Jan21.html) ; [Projeção R0 = 1.16](DashR0116_05Jan21.html) ; [Projeção R0 = 1.23](DashR123116_05Jan21.html) ; [Projeção 200 Casos - Londrina](Dash200_29Dez.html) ; [Projeção de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [Projeção 300 Casos - Londrina](Dash300Casos_29Dez.html) 
+
 
 ****
 
