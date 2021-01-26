@@ -148,6 +148,15 @@ Semana 05/01/2020 - 12/01/2021
 
 ****
 
+Semana 19/01/2020 - 26/01/2021
+
+[Casos Internação](CasosInternacoes_26Jan21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_26Jan21.html) ;  [Projeção de 250 Casos -  Londrina](Dash250Casos_26Jan21.html) ; [Projeção 225 Casos - Londrina](Dash225Casos_26Jan21.html) ;
+[Projeção 300 Casos - Londrina](Dash300Casos_26Jan21.html) ;
+[Curvas](DashCurvas_26Jan21.html) ;
+[Razão Diária](RazaoDiaria_26Jan21.html) ; [Razão Mensal](RazaoMensal_26Jan21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
