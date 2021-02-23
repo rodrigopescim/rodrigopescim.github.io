@@ -184,6 +184,17 @@ Semana 09/02/2021 - 17/02/2021
 
 ****
 
+Semana 17/02/2021 - 23/02/2021
+
+[Casos Internação](CasosInternacoes_23Fev21.html) ; [Casos Internação - Enfermaria](CasosInternacoesEnf_23Fev21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_23Fev21.html) ; [Casos 17a RS - Londrina](CasosReg_23Fev21.html) ; [Projeção de 150 Casos - Londrina](Dash150_23Fev21.html) ; [Projeção 175 Casos - Londrina](Dash175_23Fev21.html) ;
+[Curvas do R0 - Londrina](DashCurvasNew_23Fev21.html) ;
+[Curvas do R0 - Londrina 2](DashCurvas_23Fev21.html) ;
+[Projeção 275 casos - 17a RS](DashReg275_23Fev21.html) ;
+[Projeção 450 casos - 17a RS](DashReg450_23Fev21.html) ;
+[Razão Mensal](RazaoMensal_23Fev21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
