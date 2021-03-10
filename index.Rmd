@@ -206,7 +206,7 @@ Semana 23/02/2021 - 02/03/2021
 
 Semana 02/03/2021 - 09/03/2021
 
- [Casos Internação - Enfermaria](CasosInternacoesEnf_09Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_09Mar21.html) ; [Projeção - 350 Casos - 17a RS](DashRegional350_09Mar21.html) ;
+ [Casos Internação - UTI](CasosUTI_09Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_09Mar21.html) ; [Projeção - 350 Casos - 17a RS](DashRegional350_09Mar21.html) ;
 [Projeção 250 Casos - Londrina](Dash250Casos_09Mar21.html) ;
 [Curvas do R0 = 1,10 - Londrina](DashR01110_09Mar21.html) ;
 [Curvas do R0 - Londrina](DashR0Casos_09Mar21.html) ;
