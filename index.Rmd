@@ -236,6 +236,18 @@ Semana 16/03/2021 - 23/03/2021
 
 ****
 
+Semana 23/03/2021 - 30/03/2021
+
+ [Casos Internação - UTI](CasosUTI_30Mar21.html) ; [Casos Internação - Enfermaria](CasosEnf_30Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_30Mar21.html) ; [Projeção 225 Casos em 14 dias - Londrina](Dash22514Dias_30Mar21.html) ;
+[Projeção 250 Casos em 14 dias - Londrina](Dash25014Dias_30Mar21.html) ;
+[Curvas do R0 = 1,05 - Londrina](DashCurvasR0105_30Mar21.html) ;
+[Curvas do R0 = 1,01 - Londrina](DashR101_30Mar21.html) ;
+[Projeção - 17a RS](DashReg455_30Mar21.html) ;
+[Casos - 17a RS](CasosReg_30Mar21.html) ;
+[Razão Mensal](RazaoMensal_30Mar21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
