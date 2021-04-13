@@ -261,6 +261,23 @@ Semana 30/03/2021 - 06/04/2021
 
 ****
 
+Semana 06/04/2021 - 13/04/2021
+
+[Casos 100.000 hab](Casos100Mil_13Abril21.html);
+[Casos Internação - UTI](CasosUTI_13Abril21.html) ; [Casos Internação - Enfermaria](CasosEnf_13Abril21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_13Abril21.html) ;
+[Casos Março/2021 - Londrina](CasosMarco_13Abril21.html) ;
+[Projeção 200 Casos - Londrina](Dash200_13Abril21.html) ;
+[Projeção 225 Casos - Londrina](Dash225New_13Abril21.html) ;
+[Projeção 175 Casos com 3,5% - Londrina](Dash17535pct_13Abril21.html) ;
+[Projeção 175 Casos com 4,0% - Londrina](Dash1754pct_13Abril21.html) ;
+[Curvas R0 - Londrina](DashR099_13Abril21.html) ;
+[Óbitos por 100.000 hab](Obitos100Mil_13Abril21.html) ;
+[Saldo - Casos - 100.000 hab](Saldo100_13Abril21.html) ;
+[Casos Ativos em Londrina](SaldoCasosLd_13Abril21.html) ;
+[Razão Mensal](RazaoMensal_13Abril21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
