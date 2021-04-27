@@ -292,6 +292,20 @@ Semana 13/04/2021 - 20/04/2021
 
 ****
 
+Semana 20/04/2021 - 27/04/2021
+
+[Casos Internação - UTI](CasosUTI_27Abril21.html) ; [Casos Internação - Enfermaria](CasosEnfermaria_27Abril21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_27Abril21.html) ;
+[Número Diário de Casos na 17a RS](CasosReg_27Abril21.html) ;
+[Projeção 150 Casos - Londrina](Dash150_27Abril21.html) ;
+[Projeção 135 Casos - Londrina](Dash135_27Abril21.html) ;
+[Curvas Rt = 0,92 - Londrina](DashR092New_27Abril21.html) ;
+[Curvas Rt = 0,94 - Londrina](DashR094New_27Abril21.html) ;
+[Número Acumulado de Casos na 17a RS](DashReg_27Abril21.html) ;
+[Saldo - Casos - 100.000 hab](GrafSaldo100_27Abril21.html) ;
+[Razão Mensal](RazaoMensal_27Abril21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
