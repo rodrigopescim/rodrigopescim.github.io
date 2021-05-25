@@ -351,6 +351,20 @@ Semana 11/05/2021 - 18/05/2021
 
 ****
 
+Semana 18/05/2021 - 25/05/2021
+
+[Casos Internação - UTI](CasosUTI_25Maio21.html) ; [Casos Internação - Enfermaria](CasosEnf_25Maio21.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_25Maio21.html) ;
+[Casos Média Móvel - 17a RS](CasosMediaMovelReg_25Maio21.html) ;
+[Número Acumulado de Casos na 17a RS](DashReg_25Maio21.html) ;
+[Projeção 215 Casos - Londrina](Dash215_25Maio21.html) ;
+[Curvas Rt = 1,11 - Londrina](DashR111_25Maio21.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_4_25Maio21.html) ;
+[Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_4_25Maio21.html) ;
+[Óbitos - 100.000 hab - Londrina](Obitos100_4_25Maio21.html) ;
+[Razão Mensal](RazaoMensal_25Maio21.html)
+
+****
 # Disciplinas: Graduação 
 
 ****
