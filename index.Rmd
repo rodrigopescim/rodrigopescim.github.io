@@ -385,7 +385,6 @@ Semana 01/06/2021 - 08/06/2021
 [Casos Internação - UTI](CasosUTI_08Junho21.html) ; [Casos Internação - Enfermaria](CasosEnf_08Junho21.html) ; 
 [Casos Média Móvel - Londrina](CasosMediasMoveis_08Junho21.html) ;
 [Projeção - Casos Média Móvel - Londrina](CasosMediasMoveisProj_08Junho21.html) ;
-[Casos Média Móvel - 17a RS](Casos17_01Junho21.html) ;
 [Número Acumulados de Casos na 17a RS](DashReg_08Junho21.html) ;
 [Média Móveis de Casos na 17a RS](Casos16Reg_08Junho21.html) ;
 [Projeção 300 Casos - Londrina](Dash300_08Junho21.html) ;
