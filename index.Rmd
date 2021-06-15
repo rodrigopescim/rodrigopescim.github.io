@@ -397,6 +397,24 @@ Semana 01/06/2021 - 08/06/2021
 
 ****
 
+Semana 08/06/2021 - 15/06/2021
+
+[Casos Internação - UTI](CasosUTI_15Junho2021.html) ; [Casos Internação - Enfermaria](CasosEnf_15Junho2021.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_15Junho2021.html) ;
+[Projeção - Casos Média Móvel - Londrina](CasosMediasMoveisProj_15Junho2021.html) ;
+[Número Acumulados de Casos na 17a RS](DashReg_15Junho2021.html) ;
+[Média Móveis de Casos na 17a RS](CasosReg_15Junho2021.html) ;
+[Projeção 390 Casos - Londrina](Dash390_15Junho2021.html) ;
+[Curvas Rt = 1,21 - Londrina](DashR121Final_15Junho2021.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_15Junho2021.html) ;
+[Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_15Junho2021.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_15Junho2021.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_15Junho2021.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_15Junho2021.html) ;
+[Razão Mensal](RazaoMensal_15Junho2021.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
