@@ -567,7 +567,7 @@ Introdução à Regressão Linear: [Modelos de Regressão](https://www.youtube.c
 ## 2MAT336 - Estatística Matemática I
 
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [Função Geradora de Momentos](fgm.pdf), [Intervalos de Confiança](Intervalos_de_Confiança.pdf)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [Variáveis Aleatórias](variavel_aleatoria.pdf), [Esperança Matemática e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [Função Geradora de Momentos](fgm.pdf), [Intervalos de Confiança](Intervalos_de_Confianca.pdf)
 
 - **Lista de Exercícios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf), [Lista 3](Lista3_exercicios_Estatistica_Matematica_2020.pdf)
 
