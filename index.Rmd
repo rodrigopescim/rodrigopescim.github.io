@@ -500,6 +500,20 @@ Semana 13/07/2021 - 20/07/2021
 
 ****
 
+Semana 20/07/2021 - 27/07/2021
+
+[Casos Internação - UTI](CasosUTI_27Julho21.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_27Julho21.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_27Julho21.html) ;
+[Curvas Rt = 0,86 - Londrina](DashR086_27Julho21.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_27Julho21.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_27Julho21.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_27Julho21.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](ObitosDiarios100_27Julho21.html) ;
+[Razão Mensal](RazaoMensal_27Julho21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
