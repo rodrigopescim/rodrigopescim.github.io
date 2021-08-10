@@ -539,7 +539,7 @@ Semana 037/08/2021 - 10/08/2021
 [Curvas Rt = 0,83 - Londrina](DashR083_10Ago2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_10Ago2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_10Ago2021.html) ;
-[Óbitos Acumulados - 100.000 hab - Londrina](ObitosCum100_10Ago2021.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_10Ago2021.html) ;
 [Óbitos Diários - 100.000 hab - Londrina](obDiarios100_10Ago2021.html) ;
 [Média Móvel - Óbitos - Londrina](ObitosDiariosMM_10Ago2021.html) ;
 [Razão Mensal](RazaoMensal_10Ago2021.html)
