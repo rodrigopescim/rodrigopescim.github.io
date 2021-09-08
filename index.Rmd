@@ -591,6 +591,21 @@ Semana 24/08/2021 - 31/08/2021
 
 ****
 
+Semana 31/08/2021 - 07/09/2021
+
+[Casos Internação - UTI](CasosUTI_07Set21.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_07Set21.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_07Set21.html) ;
+[Curvas Rt = 1,11 - Londrina](DashR111_07Set21.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_07Set21.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_07Set21.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_07Set21.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_07Set21.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_07Set21.html) ;
+[Razão Mensal](RazaoMensal_07Set21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
