@@ -619,6 +619,20 @@ Semana 07/09/2021 - 14/09/2021
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_14Set21.html) ;
 [Razão Mensal](RazaoMensal_14Set21.html)
 
+Semana 14/09/2021 - 21/09/2021
+
+[Casos Internação - UTI](CasosUTI_21Set21.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_21Set21.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_21Set21.html) ;
+[Curvas Rt = 1,09 - Londrina](DashR109_21Set21.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_21Set21.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_21Set21.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_21Set21.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_21Set21.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_21Set21.html) ;
+[Razão Mensal](RazaoMensal_21Set21.html)
+
+
 ****
 
 # Disciplinas: Graduação 
