@@ -35,11 +35,11 @@ code.r, pre {font-size: 14px;
 
 ![](imagem.jpg)
 
-**Resumo do currículo**: Possui graduação em Matemática pela UNESP campus Rio Claro/SP, mestrado e doutorado em Ciências (Estatística e Experimentação Agronômica) pela Universidade de São Paulo com bolsa de doutorado sanduíche na University of Manchester, Reino Unido, sob orientação do Prof. Dr. Saralees Nadarajah.
+**Resumo do currículo**: ossui graduação em Matemática pela Universidade Estadual Paulista (2007), mestrado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2010) e doutorado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2013) com bolsa de doutorado sanduíche na Universidade de Manchester, Reino Unido. 
 
-**Atuação**: Professor Adjunto C do Departamento de Estatística da Universidade Estadual de Londrina, UEL. 
+**Atuação**: Atualmente é Professor Adjunto C do Departamento de Estatística da Universidade Estadual de Londrina (UEL).
 
-**Experiência**: Tem experiência na Área de Probabilidade e Estatística, com ênfase em distribuição de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados de contagem.
+**Experiência**: Tem experiência na área de Probabilidade e Estatística Aplicada com ênfase em distribuições de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados superdispersos e Modelos de regressão GALMSS.
 
 **e-mail**: rrpescim@uel.br
 
