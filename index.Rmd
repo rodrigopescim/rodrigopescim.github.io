@@ -696,6 +696,21 @@ Semana 19/10/2021 - 26/10/2021
 
 ****
 
+Semana 02/11/2021 - 09/11/2021
+
+[Casos Internação - UTI](CasosUTI_09Nov21.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_09Nov21.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_09Nov21.html) ;
+[Curvas Rt = 0,77 - Londrina](DashR077_09Nov21.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_09Nov21.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_09Nov21.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_09Nov21.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_09Nov21.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_09Nov21.html) ;
+[Razão Mensal](RazaoMensal_09Nov21.html)
+
+****
+
 # Disciplinas: Graduação 
 
 ****
