@@ -744,7 +744,7 @@ Gráficos - 11/12/2021
 [Ocupação UTI](OcupUTI.html) ; 
 [Projeção Casos](ProjCasos.html) ; 
 [Projeção Óbitos](ProjCasosObitos.html) ;
-[Gráficos Londrina x Itália](pLdltalyNew.html) ;
+[Gráficos Londrina x Itália](pLdItalyNew.html) ;
 
 ****
 
