@@ -35,11 +35,11 @@ code.r, pre {font-size: 14px;
 
 ![](imagem.jpg)
 
-**Resumo do currÃ­culo**: ossui graduaÃ§Ã£o em MatemÃ¡tica pela Universidade Estadual Paulista (2007), mestrado em ciÃªncias (estatÃ­stica e experimentaÃ§Ã£o agronÃ´mica) pela Universidade de SÃ£o Paulo (2010) e doutorado em ciÃªncias (estatÃ­stica e experimentaÃ§Ã£o agronÃ´mica) pela Universidade de SÃ£o Paulo (2013) com bolsa de doutorado sanduÃ­che na Universidade de Manchester, Reino Unido. 
+**Resumo do currículo**: ossui graduação em Matemática pela Universidade Estadual Paulista (2007), mestrado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2010) e doutorado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2013) com bolsa de doutorado sanduíche na Universidade de Manchester, Reino Unido. 
 
-**AtuaÃ§Ã£o**: Atualmente Ã© Professor Adjunto C do Departamento de EstatÃ­stica da Universidade Estadual de Londrina (UEL).
+**Atuação**: Atualmente é Professor Adjunto C do Departamento de Estatística da Universidade Estadual de Londrina (UEL).
 
-**ExperiÃªncia**: Tem experiÃªncia na Ã¡rea de Probabilidade e EstatÃ­stica Aplicada com Ãªnfase em distribuiÃ§Ãµes de probabilidade generalizadas, AnÃ¡lise de SobrevivÃªncia, Modelos de regressÃ£o com fraÃ§Ã£o de cura, Modelos lineares generalizados para dados superdispersos e Modelos de regressÃ£o GALMSS.
+**Experiência**: Tem experiência na área de Probabilidade e Estatística Aplicada com ênfase em distribuição de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados superdispersos e Modelos de regressão GALMSS.
 
 **e-mail**: rrpescim@uel.br
 
@@ -51,19 +51,19 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# CurrÃ­culo
+# Currículo
 
 *****
 
-**GraduaÃ§Ã£o em MatemÃ¡tica (Universidade Estadual Paulista, UNESP, Campus Rio Claro/SP, Brasil)**. 
+**Graduação em Matemática (Universidade Estadual Paulista, UNESP, Campus Rio Claro/SP, Brasil)**. 
 
 <br>
 
-**Mestre em CiÃªncias, EstatÃ­stica e ExperimentaÃ§Ã£o AgronÃ´mica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de SÃ£o Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges DemÃ©trio.
+**Mestre em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges Demétrio.
 
 <br>
 
-**Doutor em CiÃªncias, EstatÃ­stica e ExperimentaÃ§Ã£o AgronÃ´mica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de SÃ£o Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges DemÃ©trio.
+**Doutor em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges Demétrio.
 
 <br>
 
@@ -80,19 +80,19 @@ Links para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?i
 ![](r.png){width=70%}
 
 
-R Ã© uma linguagem e um ambiente de desenvolvimento integrado, livre e gratuito de programaÃ§Ã£o especializada em manipulaÃ§Ã£o, anÃ¡lise e visualizaÃ§Ã£o grÃ¡fica de dados. Na atualidade Ã© considerado o melhor ambiente computacional para essa finalidade. O ambiente estÃ£o disponÃ­vel para diferentes sistemas operacionais: Unix/Linux, Mac e Windows.
+R é uma linguagem e um ambiente de desenvolvimento integrado, livre e gratuito de programação especializada em manipulação, análise e visualização gráfica de dados. Na atualidade é considerado o melhor ambiente computacional para essa finalidade. O ambiente está disponível para diferentes sistemas operacionais: Unix/Linux, Mac e Windows.
 
-Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento de EstatÃ­stica da Universidade de Auckland, Nova ZelÃ¢ndia. Posteriormente, foi desenvolvido pelo esforÃ§o colaborativo de seus usuÃ¡rios em vÃ¡rios locais do mundo.
+Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento de Estatítica da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de seus usuários em vários locais do mundo.
 
 </div>
 
 ## Rstudio
 
-Quando o objetivo Ã© inserir dados ou programar uma funÃ§Ã£o,
+Quando o objetivo é inserir dados ou programar uma função,
 isso pode ser realizado de forma direta no R.
-PorÃ©m nÃ£o serÃ¡ possÃ­vel editÃ¡-las, e nem executÃ¡-las novamente.
-Neste sentido, uma alternativa Ã© programar os cÃ³digos em um editor prÃ³prio para o software R. O Rstudio Ã© um editor dinÃ¢mico, num ambiente integrado e de fÃ¡cil utilizaÃ§Ã£o.
-Para mais detalhes sobre a instalaÃ§Ã£o do software R e seu editor, ver os links: [InstalaÃ§Ã£o do R](https://cran.r-project.org/) \ e \ [InstalaÃ§Ã£o do RStudio](https://rstudio.com/products/rstudio/download/).
+Porém não será possível editá-las, e nem executá-las novamente.
+Neste sentido, uma alternativa é programar os códigos em um editor próprio para o software R. O Rstudio é um editor dinâmico, num ambiente integrado e de fácil utilização.
+Para mais detalhes sobre a instalação do software R e seu editor, ver os links: [Instalação do R](https://cran.r-project.org/) \ e \ [Instalação do RStudio](https://rstudio.com/products/rstudio/download/).
 
 
 <br><br>
@@ -105,681 +105,681 @@ Para mais detalhes sobre a instalaÃ§Ã£o do software R e seu editor, ver os l
 Semana 16/11/2020 - 23/11/2020
 
 
-[Casos InternaÃ§Ã£o](CasosInternacao.html) ; [Casos MÃ©dia MÃ³vel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash85Casos](Dash85Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
+[Casos Internção](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash85Casos](Dash85Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
 
 ****
 Semana 23/11/2020 - 30/11/2020
 
-[Casos InternaÃ§Ã£o](Casos_Internacao_Dez.html) ; [Casos MÃ©dia MÃ³vel](Casos_Media_Movel_Dez.html) ; [Casos Novembro](CasosNovembro.html) ; [Dash100Casos](Dash100Casos.html) ; [Dash150Casos](Dash150Casos.html) ; [Dash1165pct](Dash1165pct.html) ; [DashR0100](DashR0100.html) ; [DashR113R116](DashR113R116.html) ; [DashR116](DashR116.html) ; [RazÃ£o DiÃ¡ria](RazaoDiaria.html) ; [RazÃ£o Mensal](RazaoMensal.html) 
+[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_Dez.html) ; [Casos Novembro](CasosNovembro.html) ; [Dash100Casos](Dash100Casos.html) ; [Dash150Casos](Dash150Casos.html) ; [Dash1165pct](Dash1165pct.html) ; [DashR0100](DashR0100.html) ; [DashR113R116](DashR113R116.html) ; [DashR116](DashR116.html) ; [Razão Diária](RazaoDiaria.html) ; [Razão Mensal](RazaoMensal.html) 
 
 ****
 Semana 01/12/2020 - 08/12/2020
 
-[Casos InternaÃ§Ã£o](Casos_Internacoes_08Dez.html) ; [Casos MÃ©dia MÃ³vel](Casos_Media_Movel_08Dez.html) ; [RazÃ£o DiÃ¡ria](Razao_Diaria_08Dez.html) ; [RazÃ£o Mensal](Razao_Mensal_08Dez.html) ; [Dash150Casos](Dash150Casos_08Dez.html) ; [Dash120e100R115](Dash120e100R115_08Dez.html) ; [Dash120](Dash120_08Dez.html) ; [Dash100Casos](Dash100Casos_10Dez.html)
+[Casos Internação](Casos_Internacoes_08Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_08Dez.html) ; [Razão Diária](Razao_Diaria_08Dez.html) ; [Razão Mensal](Razao_Mensal_08Dez.html) ; [Dash150Casos](Dash150Casos_08Dez.html) ; [Dash120e100R115](Dash120e100R115_08Dez.html) ; [Dash120](Dash120_08Dez.html) ; [Dash100Casos](Dash100Casos_10Dez.html)
 
 ****
 Semana 08/12/2020 - 15/12/2020
 
-[Casos InternaÃ§Ã£o](Casos_Internacoes_15Dez.html) ; [Casos MÃ©dia MÃ³vel](Casos_Media_Movel_15Dez.html) ; [RazÃ£o DiÃ¡ria](Razao_Diaria_15Dez.html) ; [RazÃ£o Mensal](Razao_Mensal_15Dez.html) ; [Dash150Casos](Dash150_15Dez.html) ; [Dash175Casos](Dash175_15Dez.html) ; [Dash200Casos](Dash200_15Dez.html) ; [Dash300Regional](Dash300Regional_15Dez.html) ; [DashCurvas](DashCurvas_15Dez.html)
+[Casos Internação](Casos_Internacoes_15Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_15Dez.html) ; [Razão Diária](Razao_Diaria_15Dez.html) ; [Razão Mensal](Razao_Mensal_15Dez.html) ; [Dash150Casos](Dash150_15Dez.html) ; [Dash175Casos](Dash175_15Dez.html) ; [Dash200Casos](Dash200_15Dez.html) ; [Dash300Regional](Dash300Regional_15Dez.html) ; [DashCurvas](DashCurvas_15Dez.html)
 
 ****
 Semana 15/12/2020 - 22/12/2020
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_22Dez.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos MÃ©dia MÃ³vel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [RazÃ£o DiÃ¡ria](RazaoDiaria_22Dez.html) ; [RazÃ£o Mensal](RazaoMensal_22Dez.html) ; [ProjeÃ§Ã£o R0](DashR0_22Dez.html) ; [ProjeÃ§Ã£o 150 Casos - Londrina](Dash150Casos_22Dez.html) ; [ProjeÃ§Ã£o 200 Casos - Londrina](Dash200_22Dez.html) ; [ProjeÃ§Ã£o 250 Casos - Londrina](Dash250_22Dez.html) ; [Casos Acumulados - Londrina](Dash17535pct_22Dez.html) ; [ProjeÃ§Ã£o 300 Casos 17a RS](DashReg300_22Dez.html) ; [ProjeÃ§Ã£o 350 Casos 17a RS](DashReg350_22Dez.html)
+[Casos Internação](CasosInternacoes_22Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos Média Móvel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [Razão Diária](RazaoDiaria_22Dez.html) ; [Razão Mensal](RazaoMensal_22Dez.html) ; [Projeção R0](DashR0_22Dez.html) ; [Projeção 150 Casos - Londrina](Dash150Casos_22Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_22Dez.html) ; [Projeção 250 Casos - Londrina](Dash250_22Dez.html) ; [Casos Acumulados - Londrina](Dash17535pct_22Dez.html) ; [Projeção 300 Casos 17a RS](DashReg300_22Dez.html) ; [Projeção  350 Casos 17a RS](DashReg350_22Dez.html)
 
 
 ****
 Semana 22/12/2020 - 29/12/2020
 
-[Casos InternaÃ§Ã£o](CasosInternacaoes_29Dez.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_29Dez.html) ; [ProjeÃ§Ã£o R0](DashR0_29Dez.html) ; [ProjeÃ§Ã£o 175 Casos - Londrina](Dash175_29Dez.html) ; [ProjeÃ§Ã£o 200 Casos - Londrina](Dash200_29Dez.html) ; [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [ProjeÃ§Ã£o 300 Casos - Londrina](Dash300Casos_29Dez.html) 
+[Casos Internação](CasosInternacaoes_29Dez.html) ; [R0](DashR0_29Dez.html) ; [Projeção 175 Casos - Londrina](Dash175_29Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_29Dez.html) ; [Projeção de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [Projeção 300 Casos - Londrina](Dash300Casos_29Dez.html) 
 
 ****
 Semana 29/12/2020 - 05/01/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_05Jan21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_05Jan21.html) ; [ProjeÃ§Ã£o R0 = 1.16](DashR0116_05Jan21.html) ; [ProjeÃ§Ã£o R0 = 1.23 e R0 = 1.16](DashR123116_05Jan21.html) ; [ProjeÃ§Ã£o R0 = 1.23](DashR123_05Jan21.html) ; [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250_05Jan21.html) ; [ProjeÃ§Ã£o 300 Casos - Londrina](Dash300_05Jan21.html) 
+[Casos Internação](CasosInternacoes_05Jan21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_05Jan21.html) ; [Projeção R0 = 1.16](DashR0116_05Jan21.html) ; [Projeção R0 = 1.23 e R0 = 1.16](DashR123116_05Jan21.html) ; [Projeção R0 = 1.23](DashR123_05Jan21.html) ; [Projeção de 250 Casos -  Londrina](Dash250_05Jan21.html) ; [Projeção300 Casos - Londrina](Dash300_05Jan21.html) 
 
 
 ****
 
 Semana 05/01/2020 - 12/01/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_12Jan21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_12Jan21.html) ; [ProjeÃ§Ã£o Novos Casos](DashCurvasNew_12Jan21.html) ; [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250_12Jan21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225P2_12Jan21.html) ; [RazÃ£o DiÃ¡ria](RazaoDiaria_12Jan21.html) ; [RazÃ£o Mensal](RazaoMensal_12Jan21.html)
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_12Jan21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_12Jan21.html) ; [ProjeÃÂ§ÃÂ£o Novos Casos](DashCurvasNew_12Jan21.html) ; [ProjeÃÂ§ÃÂ£o de 250 Casos -  Londrina](Dash250_12Jan21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225P2_12Jan21.html) ; [RazÃÂ£o DiÃÂ¡ria](RazaoDiaria_12Jan21.html) ; [RazÃÂ£o Mensal](RazaoMensal_12Jan21.html)
 
 
 ****
 
 Semana 19/01/2020 - 26/01/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_26Jan21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_26Jan21.html) ;  [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250Casos_26Jan21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225Casos_26Jan21.html) ;
-[ProjeÃ§Ã£o 300 Casos - Londrina](Dash300Casos_26Jan21.html) ;
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_26Jan21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_26Jan21.html) ;  [ProjeÃÂ§ÃÂ£o de 250 Casos -  Londrina](Dash250Casos_26Jan21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225Casos_26Jan21.html) ;
+[ProjeÃÂ§ÃÂ£o 300 Casos - Londrina](Dash300Casos_26Jan21.html) ;
 [Curvas](DashCurvas_26Jan21.html) ;
-[RazÃ£o DiÃ¡ria](RazaoDiaria_26Jan21.html) ; [RazÃ£o Mensal](RazaoMensal_26Jan21.html)
+[RazÃÂ£o DiÃÂ¡ria](RazaoDiaria_26Jan21.html) ; [RazÃÂ£o Mensal](RazaoMensal_26Jan21.html)
 
 ****
 
 Semana 26/01/2021 - 02/02/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_02Fev21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_02Fev21.html) ;  [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250Casos_02Fev21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225Casos_02Fev21.html) ;
-[ProjeÃ§Ã£o 300 Casos - Londrina](Dash300Casos_02Fev21.html) ;
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_02Fev21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_02Fev21.html) ;  [ProjeÃÂ§ÃÂ£o de 250 Casos -  Londrina](Dash250Casos_02Fev21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225Casos_02Fev21.html) ;
+[ProjeÃÂ§ÃÂ£o 300 Casos - Londrina](Dash300Casos_02Fev21.html) ;
 [Curvas](DashCurvas_02Fev21.html) ;
-[RazÃ£o DiÃ¡ria](RazaoDiaria_02Fev21.html) ; [RazÃ£o Mensal](RazaoMensal_02Fev21.html)
+[RazÃÂ£o DiÃÂ¡ria](RazaoDiaria_02Fev21.html) ; [RazÃÂ£o Mensal](RazaoMensal_02Fev21.html)
 
 ****
 
 Semana 02/02/2021 - 09/02/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_09Fev21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_09Fev21.html) ;  [ProjeÃ§Ã£o de 250 Casos -  Londrina](Dash250_09Fev21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225_09Fev21.html) ; [ProjeÃ§Ã£o 300 Casos - Londrina](Dash300_09Fev21.html) ;
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_09Fev21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_09Fev21.html) ;  [ProjeÃÂ§ÃÂ£o de 250 Casos -  Londrina](Dash250_09Fev21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225_09Fev21.html) ; [ProjeÃÂ§ÃÂ£o 300 Casos - Londrina](Dash300_09Fev21.html) ;
 [Curvas](DashCurvas_09Fev21.html) ;
-[RazÃ£o DiÃ¡ria](RazaoDiaria_09Fev21.html) ; [RazÃ£o Mensal](RazaoMensal_09Fev21.html)
+[RazÃÂ£o DiÃÂ¡ria](RazaoDiaria_09Fev21.html) ; [RazÃÂ£o Mensal](RazaoMensal_09Fev21.html)
 
 ****
 
 Semana 09/02/2021 - 17/02/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_17Fev21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_17Fev21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225_17Fev21.html) ; [ProjeÃ§Ã£o de 175 Casos com 3,5\% -  Londrina](Dash175_17Fev21.html) ; [ProjeÃ§Ã£o 175 Casos com 5\% - Londrina](Dash175_5pct_17Fev21.html) ;
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_17Fev21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_17Fev21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225_17Fev21.html) ; [ProjeÃÂ§ÃÂ£o de 175 Casos com 3,5\% -  Londrina](Dash175_17Fev21.html) ; [ProjeÃÂ§ÃÂ£o 175 Casos com 5\% - Londrina](Dash175_5pct_17Fev21.html) ;
 [Curvas do R0 - Londrina](DashCurvasNew_17Fev21.html) ;
 [Curvas 17a RS](DashReg_17Fev21.html) ;
-[ProjeÃ§Ãµes 17a RS](ProjReg_17Fev21.html) ;
-[RazÃ£o Mensal](RazaoMovel_17Fev21.html)
+[ProjeÃÂ§ÃÂµes 17a RS](ProjReg_17Fev21.html) ;
+[RazÃÂ£o Mensal](RazaoMovel_17Fev21.html)
 
 ****
 
 Semana 17/02/2021 - 23/02/2021
 
-[Casos InternaÃ§Ã£o](CasosInternacoes_23Fev21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosInternacoesEnf_23Fev21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediaMovel_23Fev21.html) ; [Casos 17a RS - Londrina](CasosReg_23Fev21.html) ; [ProjeÃ§Ã£o de 150 Casos - Londrina](Dash150_23Fev21.html) ; [ProjeÃ§Ã£o 175 Casos - Londrina](Dash175_23Fev21.html) ;
+[Casos InternaÃÂ§ÃÂ£o](CasosInternacoes_23Fev21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosInternacoesEnf_23Fev21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediaMovel_23Fev21.html) ; [Casos 17a RS - Londrina](CasosReg_23Fev21.html) ; [ProjeÃÂ§ÃÂ£o de 150 Casos - Londrina](Dash150_23Fev21.html) ; [ProjeÃÂ§ÃÂ£o 175 Casos - Londrina](Dash175_23Fev21.html) ;
 [Curvas do R0 - Londrina](DashCurvasNew_23Fev21.html) ;
 [Curvas do R0 - Londrina 2](DashCurvas_23Fev21.html) ;
-[ProjeÃ§Ã£o 275 casos - 17a RS](DashReg275_23Fev21.html) ;
-[ProjeÃ§Ã£o 450 casos - 17a RS](DashReg450_23Fev21.html) ;
-[RazÃ£o Mensal](RazaoMensal_23Fev21.html)
+[ProjeÃÂ§ÃÂ£o 275 casos - 17a RS](DashReg275_23Fev21.html) ;
+[ProjeÃÂ§ÃÂ£o 450 casos - 17a RS](DashReg450_23Fev21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_23Fev21.html)
 
 ****
 
 Semana 23/02/2021 - 02/03/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosInternacoesUTI_03Mar21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosInternacoesEnf_03Mar21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_03Mar21.html) ; [Casos 17a RS com 2,5% - Londrina](Dash17Reg_25pct_03Mar21.html) ; [Casos 17a RS com 3,5% - Londrina](DashReg17_35pct_03Mar21.html) ; [ProjeÃ§Ã£o de 230 Casos - Londrina](Dash230_35pct_03Mar21.html) ; [ProjeÃ§Ã£o 250 Casos com 2,5% - Londrina](Dash250_25pct_03Mar21.html) ; [ProjeÃ§Ã£o 300 Casos com 2,5% - Londrina](Dash300_25pct_03Mar21.html) ;
-[ProjeÃ§Ã£o 300 Casos com 3,5% - Londrina](Dash300_35pct_03Mar21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosInternacoesUTI_03Mar21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosInternacoesEnf_03Mar21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_03Mar21.html) ; [Casos 17a RS com 2,5% - Londrina](Dash17Reg_25pct_03Mar21.html) ; [Casos 17a RS com 3,5% - Londrina](DashReg17_35pct_03Mar21.html) ; [ProjeÃÂ§ÃÂ£o de 230 Casos - Londrina](Dash230_35pct_03Mar21.html) ; [ProjeÃÂ§ÃÂ£o 250 Casos com 2,5% - Londrina](Dash250_25pct_03Mar21.html) ; [ProjeÃÂ§ÃÂ£o 300 Casos com 2,5% - Londrina](Dash300_25pct_03Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o 300 Casos com 3,5% - Londrina](Dash300_35pct_03Mar21.html) ;
 [Curvas do R0 - Londrina](DashCurvas_03Mar21.html) ;
-[RazÃ£o Mensal](RazaoMensal_03Mar21.html)
+[RazÃÂ£o Mensal](RazaoMensal_03Mar21.html)
 
 ****
 
 Semana 02/03/2021 - 09/03/2021
 
- [Casos InternaÃ§Ã£o - UTI](CasosUTI_09Mar21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_09Mar21.html) ; [ProjeÃ§Ã£o - 350 Casos - 17a RS](DashRegional350_09Mar21.html) ;
-[ProjeÃ§Ã£o 250 Casos - Londrina](Dash250Casos_09Mar21.html) ;
+ [Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_09Mar21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_09Mar21.html) ; [ProjeÃÂ§ÃÂ£o - 350 Casos - 17a RS](DashRegional350_09Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o 250 Casos - Londrina](Dash250Casos_09Mar21.html) ;
 [Curvas do R0 = 1,10 - Londrina](DashR01110_09Mar21.html) ;
 [Curvas do R0 - Londrina](DashR0Casos_09Mar21.html) ;
-[RazÃ£o Mensal](RazaoMensal_09Mar21.html)
+[RazÃÂ£o Mensal](RazaoMensal_09Mar21.html)
 
 ****
 
 Semana 09/03/2021 - 16/03/2021
 
- [Casos InternaÃ§Ã£o - UTI](CasosUTI_16Mar21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_16Mar21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_16Mar21.html) ; [ProjeÃ§Ã£o 250 Casos - Londrina](Dash250Casos_16Mar21.html) ;
+ [Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_16Mar21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_16Mar21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_16Mar21.html) ; [ProjeÃÂ§ÃÂ£o 250 Casos - Londrina](Dash250Casos_16Mar21.html) ;
 [Curvas do R0 = 1,08 - Londrina](DashR108_16Mar21.html) ;
-[ProjeÃ§Ã£o - 17a RS](DashReg_16Mar21.html) ;
-[Ãbitos por 100.000 hab](Obitos100__16Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o - 17a RS](DashReg_16Mar21.html) ;
+[ÃÂbitos por 100.000 hab](Obitos100__16Mar21.html) ;
 [Saldo - Casos - 100.000 hab](SaldoCasos100_16Mar21.html) ;
-[RazÃ£o Mensal](RazaoMensal_16Mar21.html)
+[RazÃÂ£o Mensal](RazaoMensal_16Mar21.html)
 
 ****
 
 Semana 16/03/2021 - 23/03/2021
 
- [Casos InternaÃ§Ã£o - UTI](CasosUti_23Mar21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_23Mar21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_23Mar21.html) ; [ProjeÃ§Ã£o 250 Casos - Londrina](Dash250_23Mar21.html) ;
-[ProjeÃ§Ã£o 300 Casos - Londrina](Dash300_23Mar21.html) ;
+ [Casos InternaÃÂ§ÃÂ£o - UTI](CasosUti_23Mar21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_23Mar21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_23Mar21.html) ; [ProjeÃÂ§ÃÂ£o 250 Casos - Londrina](Dash250_23Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o 300 Casos - Londrina](Dash300_23Mar21.html) ;
 [Curvas do R0 = 1,05 - Londrina](ProjR105_23Mar21.html) ;
-[ProjeÃ§Ã£o - 17a RS](DashReg_23Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o - 17a RS](DashReg_23Mar21.html) ;
 [Casos - 17a RS](CasosReg_23Mar21.html) ;
-[RazÃ£o Mensal](RazaoMensal_23Mar21.html)
+[RazÃÂ£o Mensal](RazaoMensal_23Mar21.html)
 
 ****
 
 Semana 23/03/2021 - 30/03/2021
 
- [Casos InternaÃ§Ã£o - UTI](CasosUTI_30Mar21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_30Mar21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_30Mar21.html) ; [ProjeÃ§Ã£o 225 Casos em 14 dias - Londrina](Dash22514Dias_30Mar21.html) ;
-[ProjeÃ§Ã£o 250 Casos em 14 dias - Londrina](Dash25014Dias_30Mar21.html) ;
+ [Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_30Mar21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_30Mar21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_30Mar21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos em 14 dias - Londrina](Dash22514Dias_30Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o 250 Casos em 14 dias - Londrina](Dash25014Dias_30Mar21.html) ;
 [Curvas do R0 = 1,05 - Londrina](DashCurvasR0105_30Mar21.html) ;
 [Curvas do R0 = 1,01 - Londrina](DashR101_30Mar21.html) ;
-[ProjeÃ§Ã£o - 17a RS](DashReg455_30Mar21.html) ;
+[ProjeÃÂ§ÃÂ£o - 17a RS](DashReg455_30Mar21.html) ;
 [Casos - 17a RS](CasosReg_30Mar21.html) ;
-[RazÃ£o Mensal](RazaoMensal_30Mar21.html)
+[RazÃÂ£o Mensal](RazaoMensal_30Mar21.html)
 
 
 ****
 
 Semana 30/03/2021 - 06/04/2021
 
- [Casos InternaÃ§Ã£o - UTI](CasosUTI_06Abril21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_06Abril21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_06Abril21.html) ; [ProjeÃ§Ã£o 225 Casos - Londrina](Dash225_06Abril21.html) ;
+ [Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_06Abril21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_06Abril21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_06Abril21.html) ; [ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225_06Abril21.html) ;
 [Curvas R0 - Londrina](DashCurvasUpdate_06Abril21.html) ;
 [Casos - 17a RS](CasosReg_06Abril21.html) ;
-[ProjeÃ§Ã£o - 17a RS](DashReg_06Abril21.html) ;
-[Ãbitos por 100.000 hab](Obitos100_06Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o - 17a RS](DashReg_06Abril21.html) ;
+[ÃÂbitos por 100.000 hab](Obitos100_06Abril21.html) ;
 [Saldo - Casos - 100.000 hab](Saldo100_06Abril21.html) ;
-[RazÃ£o Mensal](RazaoMensal_06Abril21.html)
+[RazÃÂ£o Mensal](RazaoMensal_06Abril21.html)
 
 ****
 
 Semana 06/04/2021 - 13/04/2021
 
 [Casos 100.000 hab](Casos100Mil_13Abril21.html);
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_13Abril21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_13Abril21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_13Abril21.html) ;
-[Casos MarÃ§o/2021 - Londrina](CasosMarco_13Abril21.html) ;
-[ProjeÃ§Ã£o 200 Casos - Londrina](Dash200_13Abril21.html) ;
-[ProjeÃ§Ã£o 225 Casos - Londrina](Dash225New_13Abril21.html) ;
-[ProjeÃ§Ã£o 175 Casos com 3,5% - Londrina](Dash17535pct_13Abril21.html) ;
-[ProjeÃ§Ã£o 175 Casos com 4,0% - Londrina](Dash1754pct_13Abril21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_13Abril21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_13Abril21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_13Abril21.html) ;
+[Casos MarÃÂ§o/2021 - Londrina](CasosMarco_13Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 200 Casos - Londrina](Dash200_13Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 225 Casos - Londrina](Dash225New_13Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 175 Casos com 3,5% - Londrina](Dash17535pct_13Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 175 Casos com 4,0% - Londrina](Dash1754pct_13Abril21.html) ;
 [Curvas R0 - Londrina](DashR099_13Abril21.html) ;
-[Ãbitos por 100.000 hab](Obitos100Mil_13Abril21.html) ;
+[ÃÂbitos por 100.000 hab](Obitos100Mil_13Abril21.html) ;
 [Saldo - Casos - 100.000 hab](Saldo100_13Abril21.html) ;
 [Casos Ativos em Londrina](SaldoCasosLd_13Abril21.html) ;
-[RazÃ£o Mensal](RazaoMensal_13Abril21.html)
+[RazÃÂ£o Mensal](RazaoMensal_13Abril21.html)
 
 ****
 
 Semana 13/04/2021 - 20/04/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_20Abril21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_20Abril21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_20Abril21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_20Abril21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_20Abril21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_20Abril21.html) ;
 [Casos 17a RS](CasosRegional16_20Abril21.html) ;
-[ProjeÃ§Ã£o 150 Casos - Londrina](Dash150Casos_20Abril21.html) ;
-[ProjeÃ§Ã£o 175 Casos com 4,0% - Londrina](Dash175pct4_20Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 150 Casos - Londrina](Dash150Casos_20Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 175 Casos com 4,0% - Londrina](Dash175pct4_20Abril21.html) ;
 [Curvas R0 - Londrina](DashCurvas_20Abril21.html) ;
 [Curvas R0 = 0,94 - Londrina](DashR094_20Abril21.html) ;
 [Saldo - Casos - 100.000 hab](Saldo100_20Abril21.html) ;
 [Casos Ativos em Londrina](GrafSaldo_20Abril21.html) ;
-[RazÃ£o Mensal](RazaoMensal_20Abril21.html)
+[RazÃÂ£o Mensal](RazaoMensal_20Abril21.html)
 
 ****
 
 Semana 20/04/2021 - 27/04/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_27Abril21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnfermaria_27Abril21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_27Abril21.html) ;
-[NÃºmero DiÃ¡rio de Casos na 17a RS](CasosReg_27Abril21.html) ;
-[ProjeÃ§Ã£o 150 Casos - Londrina](Dash150_27Abril21.html) ;
-[ProjeÃ§Ã£o 135 Casos - Londrina](Dash135_27Abril21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_27Abril21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnfermaria_27Abril21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_27Abril21.html) ;
+[NÃÂºmero DiÃÂ¡rio de Casos na 17a RS](CasosReg_27Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 150 Casos - Londrina](Dash150_27Abril21.html) ;
+[ProjeÃÂ§ÃÂ£o 135 Casos - Londrina](Dash135_27Abril21.html) ;
 [Curvas Rt = 0,92 - Londrina](DashR092New_27Abril21.html) ;
 [Curvas Rt = 0,94 - Londrina](DashR094New_27Abril21.html) ;
-[NÃºmero Acumulado de Casos na 17a RS](DashReg_27Abril21.html) ;
+[NÃÂºmero Acumulado de Casos na 17a RS](DashReg_27Abril21.html) ;
 [Saldo - Casos - 100.000 hab](GrafSaldo100_27Abril21.html) ;
-[RazÃ£o Mensal](RazaoMensal_27Abril21.html)
+[RazÃÂ£o Mensal](RazaoMensal_27Abril21.html)
 
 ****
 
 Semana 27/04/2021 - 04/05/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_04Maio21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_04Maio21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_04Maio21.html) ;
-[NÃºmero DiÃ¡rio de Casos na 17a RS](CasosReg_04Maio21.html) ;
-[ProjeÃ§Ã£o 110 Casos - Londrina](Dash110_04Maio21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_04Maio21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_04Maio21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_04Maio21.html) ;
+[NÃÂºmero DiÃÂ¡rio de Casos na 17a RS](CasosReg_04Maio21.html) ;
+[ProjeÃÂ§ÃÂ£o 110 Casos - Londrina](Dash110_04Maio21.html) ;
 [Curvas Rt = 0,89 - Londrina](DashR089_04Maio21.html) ;
-[NÃºmero Acumulado de Casos na 17a RS](DashReg_04Maio21.html) ;
-[ComparaÃ§Ã£o dos Casos Ativos - 100.000 hab](GrafSaldo100_04Maio21.html) ;
+[NÃÂºmero Acumulado de Casos na 17a RS](DashReg_04Maio21.html) ;
+[ComparaÃÂ§ÃÂ£o dos Casos Ativos - 100.000 hab](GrafSaldo100_04Maio21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo_04Maio21.html) ;
-[RazÃ£o Mensal](RazaoMensal_04Maio21.html)
+[RazÃÂ£o Mensal](RazaoMensal_04Maio21.html)
 
 ****
 
 Semana 04/05/2021 - 11/05/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_11Maio21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_11Maio21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_11Maio21.html) ;
-[Caso DiÃ¡rios e OcupaÃ§Ã£o de Leitos/100.000 hab - Londrina](CasosInt100Mil_11Maio21.html) ;
-[NÃºmero DiÃ¡rio de Casos na 17a RS](DashReg_11Maio21.html) ;
-[ProjeÃ§Ã£o do NÃºmero Acumulado de Casos na 17a RS](DashReg2_11Maio21.html) ;
-[ProjeÃ§Ã£o 135 Casos - Londrina](Dash135_18Dias45_11Maio21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_11Maio21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_11Maio21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_11Maio21.html) ;
+[Caso DiÃÂ¡rios e OcupaÃÂ§ÃÂ£o de Leitos/100.000 hab - Londrina](CasosInt100Mil_11Maio21.html) ;
+[NÃÂºmero DiÃÂ¡rio de Casos na 17a RS](DashReg_11Maio21.html) ;
+[ProjeÃÂ§ÃÂ£o do NÃÂºmero Acumulado de Casos na 17a RS](DashReg2_11Maio21.html) ;
+[ProjeÃÂ§ÃÂ£o 135 Casos - Londrina](Dash135_18Dias45_11Maio21.html) ;
 [Curvas Rt = 0,89 - Londrina](DashR089_11Maio21.html) ;
 [Curvas Rt = 0,96 - Londrina](DashR096_11Maio21.html) ;
-[ComparaÃ§Ã£o dos Casos Ativos - 100.000 hab](GrafSaldo100_11Maio21.html) ;
+[ComparaÃÂ§ÃÂ£o dos Casos Ativos - 100.000 hab](GrafSaldo100_11Maio21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo_11Maio21.html) ;
-[Ãbitos - 100.000 hab - Londrina](Obitos100_11Maio21.html) ;
-[RazÃ£o Mensal](RazaoMensal_11Maio21.html)
+[ÃÂbitos - 100.000 hab - Londrina](Obitos100_11Maio21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_11Maio21.html)
 
 ****
 
 Semana 11/05/2021 - 18/05/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_18Maio21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_18Maio21.html) ; [Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_18Maio21.html) ;
-[Casos MÃ©dia MÃ³vel - 17a RS](CasosMediaMoveisReg_18Maio21.html) ;
-[NÃºmero DiÃ¡rio de Casos na 17a RS](DashRegional_18Maio21.html) ;
-[ProjeÃ§Ã£o 165 Casos - Londrina](Dash165_18Maio21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_18Maio21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_18Maio21.html) ; [Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_18Maio21.html) ;
+[Casos MÃÂ©dia MÃÂ³vel - 17a RS](CasosMediaMoveisReg_18Maio21.html) ;
+[NÃÂºmero DiÃÂ¡rio de Casos na 17a RS](DashRegional_18Maio21.html) ;
+[ProjeÃÂ§ÃÂ£o 165 Casos - Londrina](Dash165_18Maio21.html) ;
 [Curvas Rt = 1,04 - Londrina](DashR104_18Maio21.html) ;
-[ComparaÃ§Ã£o dos Casos Ativos - 100.000 hab](Saldo100Mil_18Maio21.html) ;
+[ComparaÃÂ§ÃÂ£o dos Casos Ativos - 100.000 hab](Saldo100Mil_18Maio21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo_18Maio21.html) ;
-[Casos Ativos - InÃ­cio dos Sintomas - Londrina](GrafSaldoDIS_18Maio21.html) ;
-[Casos Ativos - InÃ­cio dos Sintomas x NotificaÃ§Ã£o - Londrina](GrafSaldoNormalDIS_18Maio21.html) ;
-[Ãbitos - 100.000 hab - Londrina](Obitos100Mil_18Maio21.html) ;
-[RazÃ£o Mensal](RazaoMensal_18Maio21.html)
+[Casos Ativos - InÃÂ­cio dos Sintomas - Londrina](GrafSaldoDIS_18Maio21.html) ;
+[Casos Ativos - InÃÂ­cio dos Sintomas x NotificaÃÂ§ÃÂ£o - Londrina](GrafSaldoNormalDIS_18Maio21.html) ;
+[ÃÂbitos - 100.000 hab - Londrina](Obitos100Mil_18Maio21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_18Maio21.html)
 
 ****
 
 Semana 18/05/2021 - 25/05/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_25Maio21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_25Maio21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_25Maio21.html) ;
-[Casos MÃ©dia MÃ³vel - 17a RS](CasosMediaMovelReg_25Maio21.html) ;
-[NÃºmero Acumulado de Casos na 17a RS](DashReg_25Maio21.html) ;
-[ProjeÃ§Ã£o 215 Casos - Londrina](Dash215_25Maio21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_25Maio21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_25Maio21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_25Maio21.html) ;
+[Casos MÃÂ©dia MÃÂ³vel - 17a RS](CasosMediaMovelReg_25Maio21.html) ;
+[NÃÂºmero Acumulado de Casos na 17a RS](DashReg_25Maio21.html) ;
+[ProjeÃÂ§ÃÂ£o 215 Casos - Londrina](Dash215_25Maio21.html) ;
 [Curvas Rt = 1,11 - Londrina](DashR111_25Maio21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_4_25Maio21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_4_25Maio21.html) ;
-[Ãbitos - 100.000 hab - Londrina](Obitos100_4_25Maio21.html) ;
-[RazÃ£o Mensal](RazaoMensal_25Maio21.html)
+[ÃÂbitos - 100.000 hab - Londrina](Obitos100_4_25Maio21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_25Maio21.html)
 
 ****
 Semana 25/05/2021 - 01/06/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_01Junho21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_01Junho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_01Junho21.html) ;
-[Casos MÃ©dia MÃ³vel - 17a RS](Casos17_01Junho21.html) ;
-[NÃºmero Acumulados de Casos na 17a RS](Dash17_01Junho21.html) ;
-[ProjeÃ§Ã£o 250 Casos - Londrina](Dash250_01Junho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_01Junho21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_01Junho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_01Junho21.html) ;
+[Casos MÃÂ©dia MÃÂ³vel - 17a RS](Casos17_01Junho21.html) ;
+[NÃÂºmero Acumulados de Casos na 17a RS](Dash17_01Junho21.html) ;
+[ProjeÃÂ§ÃÂ£o 250 Casos - Londrina](Dash250_01Junho21.html) ;
 [Curvas Rt = 1,14 - Londrina](DashR114_01Junho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_01Junho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_01Junho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](CUmObitos100_01Junho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_01Junho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](CUmObitos100_01Junho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_01Junho21.html)
 
 ****
 
 Semana 01/06/2021 - 08/06/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_08Junho21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_08Junho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_08Junho21.html) ;
-[ProjeÃ§Ã£o - Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveisProj_08Junho21.html) ;
-[NÃºmero Acumulados de Casos na 17a RS](DashReg_08Junho21.html) ;
-[MÃ©dia MÃ³veis de Casos na 17a RS](Casos16Reg_08Junho21.html) ;
-[ProjeÃ§Ã£o 300 Casos - Londrina](Dash300_08Junho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_08Junho21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_08Junho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_08Junho21.html) ;
+[ProjeÃÂ§ÃÂ£o - Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveisProj_08Junho21.html) ;
+[NÃÂºmero Acumulados de Casos na 17a RS](DashReg_08Junho21.html) ;
+[MÃÂ©dia MÃÂ³veis de Casos na 17a RS](Casos16Reg_08Junho21.html) ;
+[ProjeÃÂ§ÃÂ£o 300 Casos - Londrina](Dash300_08Junho21.html) ;
 [Curvas Rt = 1,17 - Londrina](DashR117_08Junho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_08Junho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_08Junho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_08Junho21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_08Junho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_08Junho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_08Junho21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_08Junho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_08Junho21.html)
 
 ****
 
 Semana 08/06/2021 - 15/06/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_15Junho2021.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_15Junho2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_15Junho2021.html) ;
-[ProjeÃ§Ã£o - Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveisProj_15Junho2021.html) ;
-[NÃºmero Acumulados de Casos na 17a RS](DashReg_15Junho2021.html) ;
-[MÃ©dia MÃ³veis de Casos na 17a RS](CasosReg_15Junho2021.html) ;
-[ProjeÃ§Ã£o 390 Casos - Londrina](Dash390_15Junho2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_15Junho2021.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_15Junho2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_15Junho2021.html) ;
+[ProjeÃÂ§ÃÂ£o - Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveisProj_15Junho2021.html) ;
+[NÃÂºmero Acumulados de Casos na 17a RS](DashReg_15Junho2021.html) ;
+[MÃÂ©dia MÃÂ³veis de Casos na 17a RS](CasosReg_15Junho2021.html) ;
+[ProjeÃÂ§ÃÂ£o 390 Casos - Londrina](Dash390_15Junho2021.html) ;
 [Curvas Rt = 1,21 - Londrina](DashR121Final_15Junho2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_15Junho2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_15Junho2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_15Junho2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_15Junho2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_15Junho2021.html) ;
-[RazÃ£o Mensal](RazaoMensal_15Junho2021.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_15Junho2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_15Junho2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_15Junho2021.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_15Junho2021.html)
 
 ****
 
 Semana 15/06/2021 - 22/06/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_22Junho2021.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_22Junho2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_22Junho2021.html) ;
-[ProjeÃ§Ã£o - Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveisProj_22Junho2021.html) ;
-[NÃºmero Acumulados de Casos na 17a RS](DashReg_22Junho2021.html) ;
-[MÃ©dia MÃ³veis de Casos na 17a RS](CasosMediasMoveisReg_22Junho2021.html) ;
-[ProjeÃ§Ã£o 265 Casos - Londrina](Dash265_22Junho2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_22Junho2021.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_22Junho2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_22Junho2021.html) ;
+[ProjeÃÂ§ÃÂ£o - Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveisProj_22Junho2021.html) ;
+[NÃÂºmero Acumulados de Casos na 17a RS](DashReg_22Junho2021.html) ;
+[MÃÂ©dia MÃÂ³veis de Casos na 17a RS](CasosMediasMoveisReg_22Junho2021.html) ;
+[ProjeÃÂ§ÃÂ£o 265 Casos - Londrina](Dash265_22Junho2021.html) ;
 [Curvas Rt = 1,21 - Londrina](DashR121_22Junho2021.html) ;
 [Curvas Rt = 1,12 - Londrina](Dash112_22Junho2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_22Junho2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_22Junho2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_22Junho2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_22Junho2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_22Junho2021.html) ;
-[RazÃ£o Mensal](RazaoMensal_22Junho2021.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_22Junho2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_22Junho2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_22Junho2021.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_22Junho2021.html)
 
 ****
 
 Semana 22/06/2021 - 29/06/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_29Junho2021.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_29Junho2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_29Junho2021.html) ;
-[NÃºmero Acumulados de Casos na 17a RS](Dash17Reg_29Junho2021.html) ;
-[MÃ©dia MÃ³veis de Casos na 17a RS](CasosMediasMoveis17_29Junho2021.html) ;
-[ProjeÃ§Ã£o 175 Casos - Londrina](Dash175_29Junho2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_29Junho2021.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_29Junho2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_29Junho2021.html) ;
+[NÃÂºmero Acumulados de Casos na 17a RS](Dash17Reg_29Junho2021.html) ;
+[MÃÂ©dia MÃÂ³veis de Casos na 17a RS](CasosMediasMoveis17_29Junho2021.html) ;
+[ProjeÃÂ§ÃÂ£o 175 Casos - Londrina](Dash175_29Junho2021.html) ;
 [Curvas Rt = 1,05 - Londrina](DashR105_29Junho2021.html) ;
 [Casos Acumulados por 100.000 hab](CasosCum100_29Junho2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](GrafSaldo100_29Junho2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](ObitosCum100_29Junho2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_29Junho2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_29Junho2021.html) ;
-[RazÃ£o Mensal](RazaoMensal_29Junho2021.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](ObitosCum100_29Junho2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_29Junho2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_29Junho2021.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_29Junho2021.html)
 
 ****
 
 Semana 29/06/2021 - 06/07/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_06Julho21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_06Julho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_06Julho21.html) ;
-[ProjeÃ§Ã£o 165 Casos - Londrina](Dash165_06Julho21.html) ;
-[ProjeÃ§Ã£o 205 Casos - Londrina](Dash205_06Julho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_06Julho21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_06Julho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_06Julho21.html) ;
+[ProjeÃÂ§ÃÂ£o 165 Casos - Londrina](Dash165_06Julho21.html) ;
+[ProjeÃÂ§ÃÂ£o 205 Casos - Londrina](Dash205_06Julho21.html) ;
 [Curvas Rt = 1,02 - Londrina](DashR102_06Julho21.html) ;
 [Curvas Rt = 1,07 - Londrina](DashR107_06Julho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_06Julho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_06Julho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_06Julho21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObDiarios100_06Julho21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_06Julho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_06Julho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_06Julho21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObDiarios100_06Julho21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_06Julho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_06Julho21.html)
 
 ****
 
 Semana 06/07/2021 - 13/07/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_13Julho21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_13Julho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_13Julho21.html) ;
-[MÃ©dia MÃ³vel - 17a RS](CasosMediasMoveis17_13Julho21.html) ;
-[ProjeÃ§Ã£o 120 Casos - Londrina](Dash120_13Julho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_13Julho21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_13Julho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_13Julho21.html) ;
+[MÃÂ©dia MÃÂ³vel - 17a RS](CasosMediasMoveis17_13Julho21.html) ;
+[ProjeÃÂ§ÃÂ£o 120 Casos - Londrina](Dash120_13Julho21.html) ;
 [Casos Acumulados - 17a RS](DashReg_13Julho21.html) ;
 [Curvas Rt = 0,95 - Londrina](DashR095_13Julho21.html) ;
 [Curvas Rt = 1,02 - Londrina](DashR102Update_13Julho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_13Julho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_13Julho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_13Julho21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_13Julho21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_13Julho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_13Julho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_13Julho21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_13Julho21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_13Julho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_13Julho21.html)
 
 ****
 
 Semana 13/07/2021 - 20/07/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_20Julho21.html) ; [Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_20Julho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_20Julho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_20Julho21.html) ; [Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_20Julho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_20Julho21.html) ;
 [Curvas Rt = 0,90 - Londrina](DashR090_20Julho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_20Julho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_20Julho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_20Julho21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_20Julho21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_20Julho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_20Julho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_20Julho21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_20Julho21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_20Julho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_20Julho21.html)
 
 ****
 
 Semana 20/07/2021 - 27/07/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_27Julho21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_27Julho21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_27Julho21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_27Julho21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_27Julho21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_27Julho21.html) ;
 [Curvas Rt = 0,86 - Londrina](DashR086_27Julho21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_27Julho21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_27Julho21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_27Julho21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_27Julho21.html) ;
-[RazÃ£o Mensal](RazaoMensal_27Julho21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_27Julho21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_27Julho21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_27Julho21.html)
 
 ****
 
 Semana 27/07/2021 - 03/08/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_03Ago2021.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_03Ago2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_03Ago2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_03Ago2021.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_03Ago2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_03Ago2021.html) ;
 [Curvas Rt = 0,86 - Londrina (27/07 - 03/08)](DashR086EssaSemana_03Ago2021.html) ;
 [Curvas Rt = 0,86 - Londrina (20/07 a 27/07)](DashR086SemanaPassada_03Ago2021.html) ;
 [Curvas Rt = 0,86 - Londrina](DashR0Update_03Ago2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_03Ago2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_03Ago2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](ObitosAcumulados100_03Ago2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_03Ago2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_03Ago2021.html) ;
-[RazÃ£o Mensal](RazaoMensal_03Ago2021.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](ObitosAcumulados100_03Ago2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_03Ago2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_03Ago2021.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_03Ago2021.html)
 
 ****
 
 Semana 03/08/2021 - 10/08/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_10Ago2021.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_10Ago2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_10Ago2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_10Ago2021.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_10Ago2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_10Ago2021.html) ;
 [Curvas Rt = 0,83 - Londrina](DashR083_10Ago2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_10Ago2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_10Ago2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_10Ago2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](obDiarios100_10Ago2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosDiariosMM_10Ago2021.html) ;
-[RazÃ£o Mensal](RazaoMensal_10Ago2021.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_10Ago2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](obDiarios100_10Ago2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosDiariosMM_10Ago2021.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_10Ago2021.html)
 
 ****
 
 Semana 10/08/2021 - 17/08/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_17Ago21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_17Ago21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_17Ago21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_17Ago21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_17Ago21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_17Ago21.html) ;
 [Curvas Rt = 1,02 - Londrina](DashR102_17Ago21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_17Ago21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_17Ago21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_17Ago21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_17Ago21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_17Ago21.html) ;
-[RazÃ£o Mensal](RazaoMensal_17Ago21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_17Ago21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_17Ago21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_17Ago21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_17Ago21.html)
 
 ****
 
 Semana 17/08/2021 - 24/08/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_24Ago21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_24Ago21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_24Ago21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_24Ago21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_24Ago21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_24Ago21.html) ;
 [Curvas Rt = 1,06 - Londrina](DashR106_24Ago21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_24Ago21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_24Ago21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_24Ago21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_24Ago21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_24Ago21.html) ;
-[RazÃ£o Mensal](RazaoMensal_24Ago21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_24Ago21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_24Ago21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_24Ago21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_24Ago21.html)
 
 ****
 
 Semana 24/08/2021 - 31/08/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_31Ago21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_31Ago21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_31Ago21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_31Ago21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_31Ago21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_31Ago21.html) ;
 [Curvas Rt = 1,09 - Londrina](DashR109_31Ago21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_31Ago21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_31Ago21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_31Ago21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_31Ago21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_31Ago21.html) ;
-[RazÃ£o Mensal](RazaoMensal_31Ago21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_31Ago21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_31Ago21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_31Ago21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_31Ago21.html)
 
 ****
 
 Semana 31/08/2021 - 07/09/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_07Set21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_07Set21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_07Set21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_07Set21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_07Set21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_07Set21.html) ;
 [Curvas Rt = 1,11 - Londrina](DashR111_07Set21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_07Set21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_07Set21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_07Set21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_07Set21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_07Set21.html) ;
-[RazÃ£o Mensal](RazaoMensal_07Set21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_07Set21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_07Set21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_07Set21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_07Set21.html)
 
 ****
 
 Semana 07/09/2021 - 14/09/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_14Set21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_14Set21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_14Set21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_14Set21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_14Set21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_14Set21.html) ;
 [Curvas Rt = 1,11 - Londrina](DashR111New_14Set21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_14Set21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_14Set21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_14Set21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_14Set21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_14Set21.html) ;
-[RazÃ£o Mensal](RazaoMensal_14Set21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_14Set21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_14Set21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_14Set21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_14Set21.html)
 
 ****
 
 Semana 14/09/2021 - 21/09/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_21Set21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_21Set21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_21Set21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_21Set21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_21Set21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_21Set21.html) ;
 [Curvas Rt = 1,09 - Londrina](DashR109_21Set21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_21Set21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_21Set21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_21Set21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_21Set21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_21Set21.html) ;
-[RazÃ£o Mensal](RazaoMensal_21Set21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_21Set21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_21Set21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_21Set21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_21Set21.html)
 
 ****
 
 Semana 21/09/2021 - 28/09/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_28Set21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_28Set21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_28Set21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_28Set21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_28Set21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_28Set21.html) ;
 [Curvas Rt = 1,07 - Londrina](DashR107_28Set21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_28Set21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_28Set21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_28Set21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](ObitosDiarios100_28Set21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_28Set21.html) ;
-[RazÃ£o Mensal](RazaoMensal_28Set21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_28Set21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](ObitosDiarios100_28Set21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_28Set21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_28Set21.html)
 
 ****
 
 Semana 28/09/2021 - 05/10/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_05Out21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_05Out21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_05Out21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_05Out21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_05Out21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_05Out21.html) ;
 [Curvas Rt = 1,03 - Londrina](DashR103_05Out21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100Hab_05Out21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_05Out21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_05Out21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_05Out21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_05Out21.html) ;
-[RazÃ£o Mensal](RazaoMensal_05Out21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_05Out21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_05Out21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_05Out21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_05Out21.html)
 
 ****
 
 Semana 12/10/2021 - 19/10/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_20out21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_20out21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_20out21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_20out21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_20out21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_20out21.html) ;
 [Curvas Rt = 0,88 - Londrina](DashR088_20out21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_20out21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_20out21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_20out21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_20out21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_20out21.html) ;
-[RazÃ£o Mensal](RazaoMensal_20out21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_20out21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_20out21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_20out21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_20out21.html)
 
 ****
 
 Semana 19/10/2021 - 26/10/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_26out21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_26out21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_26out21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_26out21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_26out21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_26out21.html) ;
 [Curvas Rt = 0,82 - Londrina](DashR082_26out21.html) ;
 [Casos Acumulados por 100.000 hab](CasosCum100_26out21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_26out21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](ObitosCum100_26out21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_26out21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_26out21.html) ;
-[RazÃ£o Mensal](RazaoMensal_26out21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](ObitosCum100_26out21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_26out21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_26out21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_26out21.html)
 
 ****
 
 Semana 02/11/2021 - 09/11/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_09Nov21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_09Nov21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_09Nov21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_09Nov21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_09Nov21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_09Nov21.html) ;
 [Curvas Rt = 0,77 - Londrina](DashR077_09Nov21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_09Nov21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_09Nov21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_09Nov21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_09Nov21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_09Nov21.html) ;
-[RazÃ£o Mensal](RazaoMensal_09Nov21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](ObitoCum100_09Nov21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_09Nov21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_09Nov21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_09Nov21.html)
 
 ****
 
 Semana 16/11/2021 - 23/11/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_23Nov21.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_23Nov21.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_23Nov21.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_23Nov21.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_23Nov21.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_23Nov21.html) ;
 [Curvas Rt = 0,72 - Londrina](DashR072_23Nov21.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_23Nov21.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_23Nov21.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_23Nov21.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_23Nov21.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_23Nov21.html) ;
-[RazÃ£o Mensal](RazaoMensal_23Nov21.html)
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_23Nov21.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_23Nov21.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_23Nov21.html) ;
+[RazÃÂ£o Mensal](RazaoMensal_23Nov21.html)
 
 ****
 
 Semana 02/12/2021 - 09/12/2021
 
-[Casos InternaÃ§Ã£o - UTI](CasosUTI_09Dez2021.html) ; 
-[Casos InternaÃ§Ã£o - Enfermaria](CasosEnf_09Dez2021.html) ; 
-[Casos MÃ©dia MÃ³vel - Londrina](CasosMediasMoveis_09Dez2021.html) ;
+[Casos InternaÃÂ§ÃÂ£o - UTI](CasosUTI_09Dez2021.html) ; 
+[Casos InternaÃÂ§ÃÂ£o - Enfermaria](CasosEnf_09Dez2021.html) ; 
+[Casos MÃÂ©dia MÃÂ³vel - Londrina](CasosMediasMoveis_09Dez2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_09Dez2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_09Dez2021.html) ;
-[Ãbitos Acumulados - 100.000 hab - Londrina](Obitos100_09Dez2021.html) ;
-[Ãbitos DiÃ¡rios - 100.000 hab - Londrina](Obd100_09Dez2021.html) ;
-[MÃ©dia MÃ³vel - Ãbitos - Londrina](ObitosMediasMoveis_09Dez2021.html) ;
+[ÃÂbitos Acumulados - 100.000 hab - Londrina](Obitos100_09Dez2021.html) ;
+[ÃÂbitos DiÃÂ¡rios - 100.000 hab - Londrina](Obd100_09Dez2021.html) ;
+[MÃÂ©dia MÃÂ³vel - ÃÂbitos - Londrina](ObitosMediasMoveis_09Dez2021.html) ;
 
 ****
 
-Gr�ficos - 11/12/2021
+Gráficos - 11/12/2021
 
-[OcupaÃ§Ã£o UTI](OcupUTI.html) ; 
-[ProjeÃ§Ã£o Casos](ProjCasos.html) ; 
-[ProjeÃ§Ã£o Ãbitos](ProjCasosObitos.html) ;
-[GrÃ¡ficos Londrina x ItÃ¡lia](pLdItalyNew.html) ;
+[OcupaÃÂ§ÃÂ£o UTI](OcupUTI.html) ; 
+[ProjeÃÂ§ÃÂ£o Casos](ProjCasos.html) ; 
+[ProjeÃÂ§ÃÂ£o ÃÂbitos](ProjCasosObitos.html) ;
+[GrÃÂ¡ficos Londrina x ItÃÂ¡lia](pLdItalyNew.html) ;
 
 ****
 
 Semana 02/12/2021 - 09/12/2021
 
-[Casos Interna��o - UTI](CasosUTI_21Dez2021.html) ; 
-[Casos Interna��o - Enfermaria](CasosEnf_21Dez2021.html) ; 
-[Casos M�dia M�vel - Londrina](CasosMediasMoveis_21Dez2021.html) ;
+[Casos Internação - UTI](CasosUTI_21Dez2021.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_21Dez2021.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_21Dez2021.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_21Dez2021.html) ;
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_21Dez2021.html) ;
-[�bitos Acumulados - 100.000 hab - Londrina](Obitos100_21Dez2021.html) ;
-[�bitos Di�rios - 100.000 hab - Londrina](Obd100_21Dez2021.html) ;
-[M�dia M�vel - �bitos - Londrina](ObitosMediasMoveis_21Dez2021.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_21Dez2021.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_21Dez2021.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_21Dez2021.html) ;
 
 ****
 
-# Disciplinas: Gradua��o
+# Disciplinas: Graduação
 
 ****
 
 
-## 6EMA025 - EstatÃ­stica e Probabilidades
+## 6EMA025 - EstatÃÂ­stica e Probabilidades
 
-- **Material:** [IntroduÃ§Ã£o Ã  EstatÃ­stica](Introducao_Estatistica.pdf), \ [EstatÃ­stica Descritiva](aula_1_Estatistica_basica.pdf)
+- **Material:** [IntroduÃÂ§ÃÂ£o ÃÂ  EstatÃÂ­stica](Introducao_Estatistica.pdf), \ [EstatÃÂ­stica Descritiva](aula_1_Estatistica_basica.pdf)
 
-- **vÃ­deo-Aulas:** 
+- **vÃÂ­deo-Aulas:** 
 
-IntroduÃ§Ã£o Ã  EstatÃ­stica: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s).
+IntroduÃÂ§ÃÂ£o ÃÂ  EstatÃÂ­stica: [Aula 1](https://www.youtube.com/watch?v=1KQhqswY1iY) \ e \ [Aula 2](https://www.youtube.com/watch?v=laEVlSfQLQs&t=7s).
 
-EstatÃ­stica Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=865s), \ [Aula 2](https://www.youtube.com/watch?v=LQsr3k1kTF0&t=32s), \ [Aula 3](https://www.youtube.com/watch?v=VxnAU4e0ego&t=23s), \ [Aula 4](https://www.youtube.com/watch?v=NA1r_OMMxJk&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na&index=7&t=389s)
+EstatÃÂ­stica Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&t=865s), \ [Aula 2](https://www.youtube.com/watch?v=LQsr3k1kTF0&t=32s), \ [Aula 3](https://www.youtube.com/watch?v=VxnAU4e0ego&t=23s), \ [Aula 4](https://www.youtube.com/watch?v=NA1r_OMMxJk&list=PLeA0ITHjteYk-qY98yeczYLlJ5T8Tr3na&index=7&t=389s)
 
 
 ****
 
-# Disciplinas: PÃ³s GraduaÃ§Ã£o (EspecializaÃ§Ã£o em EstatÃ­stica - UEL)
+# Disciplinas: PÃÂ³s GraduaÃÂ§ÃÂ£o (EspecializaÃÂ§ÃÂ£o em EstatÃÂ­stica - UEL)
 
 ****
 
@@ -789,12 +789,12 @@ EstatÃ­stica Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&
 - **Material:** [https://rodrigopescim.github.io/STA060-Probabilidade/]( https://rodrigopescim.github.io/STA060-Probabilidade/)
 
 
-- **vÃ­deo-Aulas:** [IntroduÃ§Ã£o Ã  Probabilidade - Aula 1](https://www.youtube.com/watch?v=J-7h4XN5NHM&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2&t=1186s), \ [IntroduÃ§Ã£o Ã  Probabilidade - Aula 2](https://www.youtube.com/watch?v=NwMw3SsF22I&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2), \ [DefiniÃ§Ã£o ClÃ¡ssica de Probabilidade](https://www.youtube.com/watch?v=fBKgbrnJ5Fs&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=3), \  [DefiniÃ§Ã£o Frequentista de Probabilidade](https://www.youtube.com/watch?v=OyL3_S2aZig&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=4), \  [Axiomas de Kolmogorov](https://www.youtube.com/watch?v=EMTn9l_3ZcI&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=5), \ 
+- **vÃÂ­deo-Aulas:** [IntroduÃÂ§ÃÂ£o ÃÂ  Probabilidade - Aula 1](https://www.youtube.com/watch?v=J-7h4XN5NHM&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2&t=1186s), \ [IntroduÃÂ§ÃÂ£o ÃÂ  Probabilidade - Aula 2](https://www.youtube.com/watch?v=NwMw3SsF22I&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=2), \ [DefiniÃÂ§ÃÂ£o ClÃÂ¡ssica de Probabilidade](https://www.youtube.com/watch?v=fBKgbrnJ5Fs&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=3), \  [DefiniÃÂ§ÃÂ£o Frequentista de Probabilidade](https://www.youtube.com/watch?v=OyL3_S2aZig&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=4), \  [Axiomas de Kolmogorov](https://www.youtube.com/watch?v=EMTn9l_3ZcI&list=PLeA0ITHjteYn4gEYxoV4nDtp6pGEsfr6R&index=5), \ 
 
 
 ****
 
-# Disciplinas: PÃ³s GraduaÃ§Ã£o (Mestrado/Doutorado)
+# Disciplinas: PÃÂ³s GraduaÃÂ§ÃÂ£o (Mestrado/Doutorado)
 
 ****
 
@@ -802,15 +802,15 @@ EstatÃ­stica Descritiva: [Aula 1](https://www.youtube.com/watch?v=lJxhYMKNWHc&
 ## 2CIV083 - Planejamento de Experimentos em Engenharia
 
 
-- **Material:** [EstatÃ­stica BÃ¡sica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de HipÃ³teses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf), [Ensaios Fatoriais](fatorial_mestrado.pdf), [CorrelaÃ§Ã£o X Causa](correlacao_causa.pdf), [RegressÃ£o Linear Simples](modelos_regressao.pdf), [RegressÃ£o Linear MÃºltipla](regressao_multipla.pdf)
+- **Material:** [EstatÃÂ­stica BÃÂ¡sica](aula_1_remota_Estatistica_basica_2020.pdf), [Teste de HipÃÂ³teses](Aula_2_testes_hipoteses.pdf), [Planejamento de Experimentos](aula_planejamento_de_experimentos.pdf), [Delineamento Inteiramente Casualizado](DIC.pdf), [Delineamento em Blocos Casualizado](dbc_mestrado_2020.pdf), [Ensaios Fatoriais](fatorial_mestrado.pdf), [CorrelaÃÂ§ÃÂ£o X Causa](correlacao_causa.pdf), [RegressÃÂ£o Linear Simples](modelos_regressao.pdf), [RegressÃÂ£o Linear MÃÂºltipla](regressao_multipla.pdf)
 
-- **vÃ­deo-Aulas:** 
+- **vÃÂ­deo-Aulas:** 
 
-EstatÃ­stica BÃ¡sica: [Aula 1](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula 2](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
+EstatÃÂ­stica BÃÂ¡sica: [Aula 1](https://www.youtube.com/watch?v=D7dJyxbs9S0&t=1032s), [Aula 2](https://www.youtube.com/watch?v=WvCE2Pv4CTc&t=15s) e
 [Aula no R](https://www.youtube.com/watch?v=r8Os6ubU5zY&t=1700s).
 
 
-Teste de HipÃ³teses: [Aula 1](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Aula 2](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Aula 1 no R](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Aula 2 no R](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
+Teste de HipÃÂ³teses: [Aula 1](https://www.youtube.com/watch?v=QceLwSmNLhc&t=18s), [Aula 2](https://www.youtube.com/watch?v=mhLmaWAJlsQ&t=10s), [Aula 1 no R](https://www.youtube.com/watch?v=bDoEvnjyo0M&t=192s) e [Aula 2 no R](https://www.youtube.com/watch?v=SDk8okkhH00&t=2054s).
 
 Planejamento de Experimentos: [Aula 1](https://www.youtube.com/watch?v=T1l_4epTUEE&t=977s), [Aula 2](https://www.youtube.com/watch?v=Eadzwncm9iM) e [Aula 3](https://www.youtube.com/watch?v=TG1_TFsjzpc&t=668s).
 
@@ -820,19 +820,19 @@ Delineamento em Blocos Casualizados: [Aula DBC no R](https://www.youtube.com/wat
 
 Ensaios Fatoriais: [Aula Ensaio Fatoriais no R](https://www.youtube.com/watch?v=7s84Dvh96vM).
 
-TransformaÃ§Ã£o de dados: [Anova: TransformaÃ§Ã£o de Dados no R](https://www.youtube.com/watch?v=5iPFKW4zC1I&t=63s).
+TransformaÃÂ§ÃÂ£o de dados: [Anova: TransformaÃÂ§ÃÂ£o de Dados no R](https://www.youtube.com/watch?v=5iPFKW4zC1I&t=63s).
 
-IntroduÃ§Ã£o Ã  RegressÃ£o Linear: [Modelos de RegressÃ£o](https://www.youtube.com/watch?v=YmkVJHnVs-Y&t=236s).
-
-
-## 2MAT336 - EstatÃ­stica MatemÃ¡tica I
+IntroduÃÂ§ÃÂ£o ÃÂ  RegressÃÂ£o Linear: [Modelos de RegressÃÂ£o](https://www.youtube.com/watch?v=YmkVJHnVs-Y&t=236s).
 
 
-- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [VariÃ¡veis AleatÃ³rias](variavel_aleatoria.pdf), [EsperanÃ§a MatemÃ¡tica e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [FunÃ§Ã£o Geradora de Momentos](fgm.pdf), [Intervalos de ConfianÃ§a](Intervalos_de_Confianca.pdf)
+## 2MAT336 - EstatÃÂ­stica MatemÃÂ¡tica I
 
-- **Lista de ExercÃ­cios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf), [Lista 3](Lista3_exercicios_Estatistica_Matematica_2020.pdf)
 
-- **VÃ­deo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), \ [FunÃ§Ã£o Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s), \ [DistribuiÃ§Ãµes de FunÃ§Ãµes de VariÃ¡veis AleatÃ³rias](https://www.youtube.com/watch?v=OC3XE9RLAFE&feature=youtu.be)
+- **Material:** [Teoria da Probabilidade](probabilidade_rodrigo.pdf), [VariÃÂ¡veis AleatÃÂ³rias](variavel_aleatoria.pdf), [EsperanÃÂ§a MatemÃÂ¡tica e Momentos](Esperanca_Momentos_fgm.pdf), [Principais Modelos de Probabilidade](modelos_de_probabilidade.pdf), [FunÃÂ§ÃÂ£o Geradora de Momentos](fgm.pdf), [Intervalos de ConfianÃÂ§a](Intervalos_de_Confianca.pdf)
+
+- **Lista de ExercÃÂ­cios:** [Lista 1](Lista1_exercicios_Estatistica_Matematica.pdf), [Lista 2](Lista2_exercicios_Estatistica_Matematica.pdf), [Lista 3](Lista3_exercicios_Estatistica_Matematica_2020.pdf)
+
+- **VÃÂ­deo-aulas:** [Probabilidade: Propriedades I](https://www.youtube.com/watch?v=veTEhdxF2RM), \ [FunÃÂ§ÃÂ£o Geradora de Momentos](https://www.youtube.com/watch?v=MtGqvdA8sZs&t=320s), \ [DistribuiÃÂ§ÃÂµes de FunÃÂ§ÃÂµes de VariÃÂ¡veis AleatÃÂ³rias](https://www.youtube.com/watch?v=OC3XE9RLAFE&feature=youtu.be)
 
 
 
