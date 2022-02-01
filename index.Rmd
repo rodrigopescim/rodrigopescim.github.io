@@ -761,6 +761,20 @@ Semana 14/12/2021 - 21/12/2021
 
 ****
 
+Semana 25/01/2022 - 01/02/2022
+
+[Casos Internação - UTI](CasosUTI_01_Fev_2022.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_01_Fev_2022.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_01_Fev_2022.html) ;
+[Curvas Rt = 1,45 - Londrina](DashR0_01_Fev_2022.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_01_Fev_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_01_Fev_2022.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_01_Fev_2022.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_01_Fev_2022.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_01_Fev_2022.html) ;
+
+****
+
 # Disciplinas: Graduação
 
 ****
