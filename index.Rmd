@@ -803,6 +803,20 @@ Semana 08/02/2022 - 15/02/2022
 
 ****
 
+Semana 15/02/2022 - 22/02/2022
+
+[Casos Internação - UTI](CasosUTI_22Fev22.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_22Fev22.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_22Fev22.html) ;
+[Curvas Rt = 1,28 - Londrina](DashR128_22Fev22.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_22Fev22.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_22Fev22.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_22Fev22.html) ;
+[Óbitos Diários - 100.000 hab - Londrina](Obd100_22Fev22.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_22Fev22.html) ;
+
+****
+
 
 <br><br>
 
