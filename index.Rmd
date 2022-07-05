@@ -925,6 +925,20 @@ Semana 07/06/2022 - 14/06/2022
 
 ****
 
+Semana 28/06/2022 - 05/07/2022
+
+[Casos Internação - UTI](CasosUTI_05_julho_2022.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_05_julho_2022.html) ; 
+[Casos Média Móvel - Londrina](CasosMediasMoveis_05_julho_2022.html) ;
+[Curvas Rt = 0,94 - Londrina](DashR094_05_julho_2022.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_05_julho_2022.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_14_junho_2022.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_05_julho_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_05_julho_2022.html) ;
+
+
+****
+
 <br><br>
 
 ****
