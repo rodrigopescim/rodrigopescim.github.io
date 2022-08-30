@@ -906,7 +906,7 @@ Semana 24/05/2022 - 31/05/2022
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_31_Maio_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_31_Maio_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_31_Maio_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_31_Maio_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_31_Maio_2022.html) 
 
 
 ****
@@ -920,7 +920,7 @@ Semana 07/06/2022 - 14/06/2022
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_14_junho_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_14_junho_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_14_junho_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_14_junho_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_14_junho_2022.html) 
 
 
 ****
@@ -934,7 +934,7 @@ Semana 28/06/2022 - 05/07/2022
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_05_julho_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_05_julho_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_05_julho_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_05_julho_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_05_julho_2022.html) 
 
 
 ****
@@ -948,7 +948,7 @@ Semana 12/07/2022 - 19/07/2022
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_19_julho_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_19_julho_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_19_julho_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_19_julho_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_19_julho_2022.html) 
 
 
 ****
@@ -962,7 +962,7 @@ Semana 26/07/2022 - 02/08/2022
 [Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_02_Ago_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_02_Ago_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_02_Ago_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_02_Ago_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_02_Ago_2022.html) 
 
 
 ****
@@ -976,7 +976,21 @@ Semana 09/08/2022 - 16/08/2022
 [Média Móvel - Óbitos - Londrina](ObitosMM_16_Ago_2022.html) ;
 [Casos Acumulados por 100.000 hab](Casos100_16_Ago_2022.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_16_Ago_2022.html) ;
-[Casos Ativos - 100.000 hab - Londrina](Saldo100_16_Ago_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_16_Ago_2022.html) 
+
+
+****
+
+Semana 23/08/2022 - 30/08/2022
+
+[Casos Internação - UTI](CasosUTI_30_Ago_2022.html) ; 
+[Casos Internação - Enfermaria](CasosEnf_30_Ago_2022.html) ; 
+[Casos Média Móvel - Londrina](CasosMM_30_Ago_2022.html) ;
+[Curvas Rt = 0,71 - Londrina](DashR071_30_Ago_2022.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMM_30_Ago_2022.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_30_Ago_2022.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_30_Ago_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_30_Ago_2022.html) ;
 
 
 ****
