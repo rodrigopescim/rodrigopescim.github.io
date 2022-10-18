@@ -1018,6 +1018,17 @@ Semana 20/09/2022 - 27/09/2022
 
 ****
 
+Semana 11/10/2022 - 18/10/2022
+
+[Casos Média Móvel - Londrina](CasosMM_18_Out_2022.html) ;
+[Curvas Rt = 0,49 - Londrina](DashR049_18_Out_2022.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMM_18_Out_2022.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_18_Out_2022.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_18_Out_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_18_Out_2022.html) 
+
+****
+
 
 
 <br><br>
