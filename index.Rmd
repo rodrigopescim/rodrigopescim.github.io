@@ -1029,6 +1029,16 @@ Semana 11/10/2022 - 18/10/2022
 
 ****
 
+Semana 01/11/2022 - 08/11/2022
+
+[Casos Média Móvel - Londrina](CasosMediasMoveis_08_Nov_2022.html) ;
+[Curvas Rt = 0,55 - Londrina](DashR055_08_Nov_2022.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_08_Nov_2022.html) ;
+[Casos Acumulados por 100.000 hab](Casos100_08_Nov_2022.html) ;
+[Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_08_Nov_2022.html) ;
+[Casos Ativos - 100.000 hab - Londrina](Saldo100_08_Nov_2022.html) 
+
+****
 
 
 <br><br>
