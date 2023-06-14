@@ -1,5 +1,5 @@
 ---
-title: "Projeto de Extensão BRData: Brasil em Dados"
+title: "BRData - Brasil em Dados"
 output: html_document
 ---
 
@@ -27,7 +27,7 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# BRData: Brasil em Dados 
+# O que é BRData ?
 
 *****
 
@@ -75,7 +75,13 @@ Neste sentido, essa página foi desenvolvida para permitir o acompanhamento do e
 
 ****
 
-# Tendências da COVID-19 em Londrina/PR 
+# Gráficos de Tendência da COVID-19 em Londrina/PR 
+
+****
+
+Nesta seção apresentamos uma análise dos casos (enfermaria e UTI) de infectados, média móvel de casos, taxa de transmissão (Rt) do vírus Sars-CoV2, projeções de casos / leitos hospitalares, casos ativos (confirmados - curados - óbitos) por 100 mil habitantes, óbitos diários e média móvel de óbitos a partir do início dos sintomas da COVID-19 que foram reportados semanalmente na cidade de Londrina/PR, região metropolitana de Londrina (que inclui as cidades que pertencem a 17a Regional de Saúde) e algumas cidades paranaenses como Curitiba, Maringá e Arapongas.
+
+A principal ideia desta análise é mostrar gráficos de tendências (de crescimento, decrescimento ou estabilidade) de forma semanal, com o objetivo de auxiliar o poder público (em nível municipal) no planejamento e implementação de políticas públicas de forma mitigar o avanço da COVID-19 nos municípios estudados. Os conjuntos de dados utilizado neste estudo foi disponibilizado pela secretaria de saúde da cidade de Londrina, 17a Regional de Saúde do Paraná e pela SESA (Secretaria Estadual de Saúde do Paraná).
 
 ****
 

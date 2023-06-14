@@ -1,2 +1,3 @@
-# http://rodrigopescim.github.io
-Webpage do Professor Rodrigo Pescim
+# http://brdata.github.io
+Webpage do Projeto de Extensão BRData - Brasil em Dados
+
