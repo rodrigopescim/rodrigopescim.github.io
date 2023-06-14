@@ -71,7 +71,7 @@ O **BRData - Boletim COVID-19**  é uma iniciativa independente, fruto da colabo
 
 Para uma **projeção de novos casos da doença**, são desenvolvidos **modelos estatísticos/epidemiológicos** a partir dos dados coletados diariamente das secretarias municipais de Saúde. Dessa maneira, **podemos simular diferentes cenários para identificar tendências**, que são de suma importância para o **planejamento e implementação de políticas públicas**.
 
-Neste sentido, essa página foi desenvolvida para permitir o acompanhamento do estado atual da pandemia da Covid-19 na 17$^{a}$ Regional de Saúde do estado do Paraná, incluindo análises estatísticas e previsões.
+Neste sentido, a página dos boletins foi desenvolvida para permitir o acompanhamento do estado atual da pandemia da COVID-19, principalmente, na [17$^{a}$ Regional de Saúde do estado do Paraná], incluindo análises estatísticas e previsões.
 
 ****
 
@@ -81,7 +81,7 @@ Neste sentido, essa página foi desenvolvida para permitir o acompanhamento do e
 
 Nesta seção apresentamos uma análise dos casos (enfermaria e UTI) de infectados, média móvel de casos, taxa de transmissão (Rt) do vírus Sars-CoV2, projeções de casos / leitos hospitalares, casos ativos (confirmados - curados - óbitos) por 100 mil habitantes, óbitos diários e média móvel de óbitos a partir do início dos sintomas da COVID-19 que foram reportados semanalmente na cidade de Londrina/PR, região metropolitana de Londrina (que inclui as cidades que pertencem a 17a Regional de Saúde) e algumas cidades paranaenses como Curitiba, Maringá e Arapongas.
 
-A principal ideia desta análise é mostrar gráficos de tendências (de crescimento, decrescimento ou estabilidade) de forma semanal, com o objetivo de auxiliar o poder público (em nível municipal) no planejamento e implementação de políticas públicas de forma mitigar o avanço da COVID-19 nos municípios estudados. Os conjuntos de dados utilizado neste estudo foi disponibilizado pela secretaria de saúde da cidade de Londrina, 17a Regional de Saúde do Paraná e pela SESA (Secretaria Estadual de Saúde do Paraná).
+A principal ideia desta análise é mostrar gráficos de tendências (de crescimento, decrescimento ou estabilidade) de forma semanal, com o objetivo de auxiliar o poder público (em nível municipal) no planejamento e implementação de políticas públicas de forma mitigar o avanço da COVID-19 nos municípios estudados. Os conjuntos de dados utilizado neste estudo foi disponibilizado pela [secretaria de saúde] da cidade de Londrina, 17a Regional de Saúde do Paraná e pela Secretaria Estadual de Saúde do Paraná ([SESA]).
 
 ****
 
@@ -1054,6 +1054,10 @@ Rodrigo Rossetto Pescim \ (Professor do [Departamento de Estatística] - UEL)
 
 <!-- links -->
 
+
+[17$^{a}$ Regional de Saúde do estado do Paraná]: https://www.saude.pr.gov.br/Pagina/17a-Regional-de-Saude-Londrina
+[secretaria de saúde]: https://saude.londrina.pr.gov.br/index.php/dados-epidemiologicos/boletim-informativo.html
+[SESA]: https://www.saude.pr.gov.br/Pagina/Coronavirus-COVID-19
 [Pós-Graduação em Agronomia]: https://pos.uel.br/pgagro/
 [Pós-Graduação em Arquitetura e Urbanismo]: http://www.uel.br/ctu/dau/posgraduacao.html
 [Departamento de Estatística]: http://www.uel.br/cce/dsta/portal/
