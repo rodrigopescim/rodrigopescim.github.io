@@ -1,5 +1,5 @@
 ---
-title: "  "
+title: "Projeto de Extensão BRData: Brasil em Dados"
 output: html_document
 ---
 
@@ -27,23 +27,15 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# Rodrigo Rossetto Pescim
+# BRData: Brasil em Dados 
 
 *****
 
 <div style="column-count: 2;">
 
-![](imagem.jpg)
+![](brdata.png)
 
-**Resumo do currículo**: Possui graduação em Matemática pela Universidade Estadual Paulista (2007), mestrado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2010) e doutorado em ciências (estatística e experimentação agronômica) pela Universidade de São Paulo (2013) com bolsa de doutorado sanduíche na Universidade de Manchester, Reino Unido. 
-
-**Atuação**: Atualmente é Professor Adjunto C do Departamento de Estatística da Universidade Estadual de Londrina (UEL).
-
-**Experiência**: Tem experiência na área de Probabilidade e Estatística Aplicada com ênfase em distribuição de probabilidade generalizadas, Análise de Sobrevivência, Modelos de regressão com fração de cura, Modelos lineares generalizados para dados superdispersos e Modelos de regressão GALMSS.
-
-**e-mail**: rrpescim@uel.br
-
-**Telefone**: (43) 3371-4932
+O **BRData - Brasil em Dados** é um projeto de extensão universitária vínculado ao [Departamento de Estatística](http://www.uel.br/cce/dsta/portal/) do Centro de Ciências Exatas (CCE) da [Universidade Estadual de Londrina](https://portal.uel.br/home/) (UEL) que tem por objetivo apresentar informações fidedignas e projeções futuras de conteúdos relacionados as áreas da saúde, educação, economia e meio ambiente do Brasil, com ênfase no estado do Paraná e na cidade de Londrina, por meio de análise e modelagem estatística dos dados.
 
 </div>
 
@@ -51,57 +43,42 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# Currículo
+# Motivação
 
 *****
 
-**Graduação em Matemática (Universidade Estadual Paulista, UNESP, Campus Rio Claro/SP, Brasil)**. 
+Atualmente vivemos um momento de isolamento/distanciamento social devido a pandemia causada pelo novo coronavírus, Sars-CoV-2. Diante dessa situação, a busca da população por informações aumenta e a importância da análise de dados e estudos de modelos estatísticos para projeções futuras se evidencia. 
 
-<br>
-
-**Mestre em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges Demétrio.
-
-<br>
-
-**Doutor em Ciências, Estatística e Experimentação Agronômica (Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo, USP, Brasil)**. **Orientadora**: Profa. Dra. Clarice Garcia Borges Demétrio.
-
-<br>
-
-Links para [CV Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213674T3&tokenCaptchar=03AGdBq27Du3F1Ry2XVq4B-18awNDkipuptZmNq_OKAtriCWJ8UBo4OTgTy0kB-RRNzSglME8DHAbMfOyxtHaksgiiRUHQacCxctlmKSrAqbw2Jb2n72R7D6A45vnklTATbY7jNjeRn5yIjIHrSgzv26gHvk_lfsuR7i-bOw7NeU_17y-69R3-1D0CbFkX9haYzAvJLNLrDCmq5EKYGdD82m9fb--F7tcBoKh9smz5xPBQSXeqlNXFjjZrJTxEB9TAXXwFBLSqnFVngEZDLStJk5jb_tE0RSdGC5WNakB9ABhixsviULtIiQ5LvOEdfhkKRfhll6qRd3o_gf9E2Eahxv7vmnrnnLUCCrLjxlryXQI1M_jJGAC5nY8Kg6RlwNumCoyHqGKwvNqPVIKfrwN-oJnrkBi5nb7YdQ) \ e \ [Google Scholar](https://scholar.google.com/citations?user=eRIuUTkAAAAJ&hl=pt-BR&oi=ao).
+Esse contexto vivido na atualidade vem mostrar a necessidade de informações provenientes da análise estatística de dados. Neste sentido, o projeto “BRdata: Brasil em Dados” tem apresentar informações com informações relevantes e acessíveis, de tópicos e indicadores relacionados a cidade de Londrina, ao estado do Paraná e do Brasil a partir da descrição, visualização, estudos de tendência, projeções e manipulação dos dados, que são ferramentas essenciais para a construção de uma sociedade mais justa e igualitária.
 
 ****
 
-# Use R !!!
+# Dados de Saúde Pública: COVID-19
+
+*****
+
+**Sars-CoV-2** é o novo coronavírus identificado como agente etiológico da **doença pelo coronavírus 2019 (COVID-19)**. O primeiro caso da pandemia pelo novo coronavírus foi identificado em Wuhan, na China, no dia 31 de dezembro de 2019. Desde então, os casos começaram a se espalhar rapidamente pelo mundo.  No dia **12 de março de 2020** os seis primeiros casos da COVID-19 foram confirmados no estado do Paraná. 
+
+Diante a disseminação da doença, o integrantes do **projeto BRData** tem buscado junto as **secretarias de saúde de Londrina/PR, Arapongas/PR e da 17$^{a}$ Regional de Saúde do Paraná** apresentar informações relevantes e confiáveis, por meio de análises estatística de dados sobre a COVID-19. 
 
 ****
 
-<div style="column-count: 2;">
-
-![](r.png){width=70%}
-
-
-R é uma linguagem e um ambiente de desenvolvimento integrado, livre e gratuito de programação especializada em manipulação, análise e visualização gráfica de dados. Na atualidade é considerado o melhor ambiente computacional para essa finalidade. O ambiente está disponível para diferentes sistemas operacionais: Unix/Linux, Mac e Windows.
-
-Foi criado originalmente por Ross Ihaka e por Robert Gentleman no Departamento de Estatítica da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de seus usuários em vários locais do mundo.
-
-</div>
-
-## Rstudio
-
-Quando o objetivo é inserir dados ou programar uma função,
-isso pode ser realizado de forma direta no R.
-Porém não será possível editá-las, e nem executá-las novamente.
-Neste sentido, uma alternativa é programar os códigos em um editor próprio para o software R. O Rstudio é um editor dinâmico, num ambiente integrado e de fácil utilização.
-Para mais detalhes sobre a instalação do software R e seu editor, ver os links: [Instalação do R](https://cran.r-project.org/) \ e \ [Instalação do RStudio](https://rstudio.com/products/rstudio/download/).
-
-
-<br><br>
+# BRData - Boletim COVID-19
 
 ****
 
-# COVID-19 - Londrina 
+O **BRData - Boletim COVID-19**  é uma iniciativa independente, fruto da colaboração entre docentes e discentes do projeto "BRData: Brasil em Dados" e do [NIGEP][] (Núcleo Interdisciplinar de Gestão Pública) da [Universidade Estadual de Londrina][] (UEL) **com o intuito de contribuir para a disseminação de informação de qualidade baseada em dados** atualizados e análises cientificamente embasadas. 
+
+Para uma **projeção de novos casos da doença**, são desenvolvidos **modelos estatísticos/epidemiológicos** a partir dos dados coletados diariamente das secretarias municipais de Saúde. Dessa maneira, **podemos simular diferentes cenários para identificar tendências**, que são de suma importância para o **planejamento e implementação de políticas públicas**.
+
+Neste sentido, essa página foi desenvolvida para permitir o acompanhamento do estado atual da pandemia da Covid-19 na 17$^{a}$ Regional de Saúde do estado do Paraná, incluindo análises estatísticas e previsões.
 
 ****
+
+# Tendências da COVID-19 em Londrina/PR 
+
+****
+
 Semana 16/11/2020 - 23/11/2020
 
 
@@ -1051,7 +1028,29 @@ Semana 22/11/2022 - 29/11/2022
 
 ****
 
-<br><br>
+## Equipe
 
 ****
+
+André Silva Olak \ (Doutorando da [Pós-Graduação em Arquitetura e Urbanismo]- UEL)
+
+Aline Midori Susuki \ (Mestre pela [Pós-Graduação em Arquitetura e Urbanismo]- UEL)
+
+Gabriel Danilo Shimizu \ (Doutorando da [Pós-Graduação em Agronomia]- UEL)
+
+Marina Ragassi Urbano \ (Professora do [Departamento de Estatística] - UEL)
+
+Pedro Henrique Ramos Cerqueira \ (Professor do [Departamento de Estatística] - UEL)
+
+Rodrigo Rossetto Pescim \ (Professor do [Departamento de Estatística] - UEL)
+
+****
+
+<!-- links -->
+
+[Pós-Graduação em Agronomia]: https://pos.uel.br/pgagro/
+[Pós-Graduação em Arquitetura e Urbanismo]: http://www.uel.br/ctu/dau/posgraduacao.html
+[Departamento de Estatística]: http://www.uel.br/cce/dsta/portal/
+[Universidade Estadual de Londrina]: http://www.uel.br/
+[NIGEP]: http://www.uel.br/projetos/nigep/
 
