@@ -88,7 +88,7 @@ A principal ideia desta análise é mostrar gráficos de tendências (de crescim
 Semana 16/11/2020 - 23/11/2020
 
 
-[Casos Internção](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Projeção - 85 casos](Dash85Casos.html) ; [Projeção - 112 casos](DashR112.html) ; [Projeção - 130 casos](DashReg130Casos.html) 
+[Casos Internção](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Projeção - 55 casos](Dash55Casos.html) ; [Projeção - 85 casos](Dash85Casos.html) ; [Projeção - 112 casos](DashR112.html) ; [Projeção - 130 casos](DashReg130Casos.html) 
 
 ****
 Semana 23/11/2020 - 30/11/2020
