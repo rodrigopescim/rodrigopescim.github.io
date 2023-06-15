@@ -27,7 +27,7 @@ code.r, pre {font-size: 14px;
 
 *****
 
-# O que é BRData ?
+# O que é o BRData ?
 
 *****
 
@@ -88,38 +88,38 @@ A principal ideia desta análise é mostrar gráficos de tendências (de crescim
 Semana 16/11/2020 - 23/11/2020
 
 
-[Casos Internção](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Dash85Casos](Dash85Casos.html) ; [DashR112](DashR112.html) ; [DashReg130Casos](DashReg130Casos.html) 
+[Casos Internção](CasosInternacao.html) ; [Casos Média Móvel](CasosMediaMovel.html) ; [Dash55Casos](Dash55Casos.html) ; [Projeção - 85 casos](Dash85Casos.html) ; [Projeção - 112 casos](DashR112.html) ; [Projeção - 130 casos](DashReg130Casos.html) 
 
 ****
 Semana 23/11/2020 - 30/11/2020
 
-[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_Dez.html) ; [Casos Novembro](CasosNovembro.html) ; [Dash100Casos](Dash100Casos.html) ; [Dash150Casos](Dash150Casos.html) ; [Dash1165pct](Dash1165pct.html) ; [DashR0100](DashR0100.html) ; [DashR113R116](DashR113R116.html) ; [DashR116](DashR116.html) ; [Razão Diária](RazaoDiaria.html) ; [Razão Mensal](RazaoMensal.html) 
+[Casos Internação](Casos_Internacao_Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_Dez.html) ; [Casos em  Novembro/2020](CasosNovembro.html) ; [Projeção - 100 casos](Dash100Casos.html) ; [Projeção - 150 casos](Dash150Casos.html) ; [Projeção - 165 casos](Dash1165pct.html) ; [Projeção do Rt para 100 casos](DashR0100.html) ; [Comparação dos Rts](DashR113R116.html) ; [Projeção Rt = 1.16](DashR116.html) ; [Razão Diária](RazaoDiaria.html) ; [Razão Mensal](RazaoMensal.html) 
 
 ****
 Semana 01/12/2020 - 08/12/2020
 
-[Casos Internação](Casos_Internacoes_08Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_08Dez.html) ; [Razão Diária](Razao_Diaria_08Dez.html) ; [Razão Mensal](Razao_Mensal_08Dez.html) ; [Dash150Casos](Dash150Casos_08Dez.html) ; [Dash120e100R115](Dash120e100R115_08Dez.html) ; [Dash120](Dash120_08Dez.html) ; [Dash100Casos](Dash100Casos_10Dez.html)
+[Casos Internação](Casos_Internacoes_08Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_08Dez.html) ; [Razão Diária](Razao_Diaria_08Dez.html) ; [Razão Mensal](Razao_Mensal_08Dez.html) ; [Projeção - 150 casos](Dash150Casos_08Dez.html) ; [Projeção Rt = 1.15 para 120 casos](Dash120e100R115_08Dez.html) ; [Projeção - 120 casos](Dash120_08Dez.html) ; [Projeção - 100 casos](Dash100Casos_10Dez.html)
 
 ****
 Semana 08/12/2020 - 15/12/2020
 
-[Casos Internação](Casos_Internacoes_15Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_15Dez.html) ; [Razão Diária](Razao_Diaria_15Dez.html) ; [Razão Mensal](Razao_Mensal_15Dez.html) ; [Dash150Casos](Dash150_15Dez.html) ; [Dash175Casos](Dash175_15Dez.html) ; [Dash200Casos](Dash200_15Dez.html) ; [Dash300Regional](Dash300Regional_15Dez.html) ; [DashCurvas](DashCurvas_15Dez.html)
+[Casos Internação](Casos_Internacoes_15Dez.html) ; [Casos Média Móvel](Casos_Media_Movel_15Dez.html) ; [Razão Diária](Razao_Diaria_15Dez.html) ; [Razão Mensal](Razao_Mensal_15Dez.html) ; [Projeção - 150 casos](Dash150_15Dez.html) ; [Projeção - 175 casos](Dash175_15Dez.html) ; [Projeção - 200 casos](Dash200_15Dez.html) ; [Projeção - 300 casos na 17a Regional](Dash300Regional_15Dez.html) ; [Projeção Rt = 1.18](DashCurvas_15Dez.html)
 
 ****
 Semana 15/12/2020 - 22/12/2020
 
-[Casos Internação](CasosInternacoes_22Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos Média Móvel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [Razão Diária](RazaoDiaria_22Dez.html) ; [Razão Mensal](RazaoMensal_22Dez.html) ; [Projeção R0](DashR0_22Dez.html) ; [Projeção 150 Casos - Londrina](Dash150Casos_22Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_22Dez.html) ; [Projeção 250 Casos - Londrina](Dash250_22Dez.html) ; [Casos Acumulados - Londrina](Dash17535pct_22Dez.html) ; [Projeção 300 Casos 17a RS](DashReg300_22Dez.html) ; [Projeção  350 Casos 17a RS](DashReg350_22Dez.html)
+[Casos Internação](CasosInternacoes_22Dez.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_22Dez.html) ; [Casos Média Móvel - 17a RS](CasosMediaMovelReg_22Dez.html) ; [Razão Diária](RazaoDiaria_22Dez.html) ; [Razão Mensal](RazaoMensal_22Dez.html) ; [Projeção Rt](DashR0_22Dez.html) ; [Projeção 150 Casos - Londrina](Dash150Casos_22Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_22Dez.html) ; [Projeção 250 Casos - Londrina](Dash250_22Dez.html) ; [Casos Acumulados - Londrina](Dash17535pct_22Dez.html) ; [Projeção 300 Casos 17a RS](DashReg300_22Dez.html) ; [Projeção  350 Casos 17a RS](DashReg350_22Dez.html)
 
 
 ****
 Semana 22/12/2020 - 29/12/2020
 
-[Casos Internação](CasosInternacaoes_29Dez.html) ; [R0](DashR0_29Dez.html) ; [Projeção 175 Casos - Londrina](Dash175_29Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_29Dez.html) ; [Projeção de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [Projeção 300 Casos - Londrina](Dash300Casos_29Dez.html) 
+[Casos Internação](CasosInternacaoes_29Dez.html) ; [Rt - Londrina](DashR0_29Dez.html) ; [Projeção 175 Casos - Londrina](Dash175_29Dez.html) ; [Projeção 200 Casos - Londrina](Dash200_29Dez.html) ; [Projeção de 250 Casos -  Londrina](Dash250_p2_29Dez.html) ; [Projeção 300 Casos - Londrina](Dash300Casos_29Dez.html) 
 
 ****
 Semana 29/12/2020 - 05/01/2021
 
-[Casos Internação](CasosInternacoes_05Jan21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_05Jan21.html) ; [Projeção R0 = 1.16](DashR0116_05Jan21.html) ; [Projeção R0 = 1.23 e R0 = 1.16](DashR123116_05Jan21.html) ; [Projeção R0 = 1.23](DashR123_05Jan21.html) ; [Projeção de 250 Casos -  Londrina](Dash250_05Jan21.html) ; [Projeção300 Casos - Londrina](Dash300_05Jan21.html) 
+[Casos Internação](CasosInternacoes_05Jan21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_05Jan21.html) ; [Projeção Rt = 1.16](DashR0116_05Jan21.html) ; [Projeção Rt = 1.23 e Rt = 1.16](DashR123116_05Jan21.html) ; [Projeção Rt = 1.23](DashR123_05Jan21.html) ; [Projeção de 250 Casos -  Londrina](Dash250_05Jan21.html) ; [Projeção300 Casos - Londrina](Dash300_05Jan21.html) 
 
 
 ****
@@ -160,7 +160,7 @@ Semana 02/02/2021 - 09/02/2021
 Semana 09/02/2021 - 17/02/2021
 
 [Casos Internação](CasosInternacoes_17Fev21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_17Fev21.html) ; [Projeção 225 Casos - Londrina](Dash225_17Fev21.html) ; [Projeção de 175 Casos com 3,5\% -  Londrina](Dash175_17Fev21.html) ; [Projeção 175 Casos com 5\% - Londrina](Dash175_5pct_17Fev21.html) ;
-[Curvas do R0 - Londrina](DashCurvasNew_17Fev21.html) ;
+[Curvas do Rt - Londrina](DashCurvasNew_17Fev21.html) ;
 [Curvas 17a RS](DashReg_17Fev21.html) ;
 [Projeção 17a RS](ProjReg_17Fev21.html) ;
 [Razão Mensal](RazaoMovel_17Fev21.html)
@@ -170,8 +170,8 @@ Semana 09/02/2021 - 17/02/2021
 Semana 17/02/2021 - 23/02/2021
 
 [Casos Internação](CasosInternacoes_23Fev21.html) ; [Casos Internação - Enfermaria](CasosInternacoesEnf_23Fev21.html) ; [Casos Média Móvel - Londrina](CasosMediaMovel_23Fev21.html) ; [Casos 17a RS - Londrina](CasosReg_23Fev21.html) ; [Projeção de 150 Casos - Londrina](Dash150_23Fev21.html) ; [Projeção 175 Casos - Londrina](Dash175_23Fev21.html) ;
-[Curvas do R0 - Londrina](DashCurvasNew_23Fev21.html) ;
-[Curvas do R0 - Londrina 2](DashCurvas_23Fev21.html) ;
+[Curvas do Rt - Londrina](DashCurvasNew_23Fev21.html) ;
+[Curvas do Rt - Londrina 2](DashCurvas_23Fev21.html) ;
 [Projeção 275 casos - 17a RS](DashReg275_23Fev21.html) ;
 [Projeção 450 casos - 17a RS](DashReg450_23Fev21.html) ;
 [Razão Mensal](RazaoMensal_23Fev21.html)
@@ -182,7 +182,7 @@ Semana 23/02/2021 - 02/03/2021
 
 [Casos Internação - UTI](CasosInternacoesUTI_03Mar21.html) ; [Casos Internação - Enfermaria](CasosInternacoesEnf_03Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_03Mar21.html) ; [Casos 17a RS com 2,5% - Londrina](Dash17Reg_25pct_03Mar21.html) ; [Casos 17a RS com 3,5% - Londrina](DashReg17_35pct_03Mar21.html) ; [Projeção de 230 Casos - Londrina](Dash230_35pct_03Mar21.html) ; [Projeção 250 Casos com 2,5% - Londrina](Dash250_25pct_03Mar21.html) ; [Projeção 300 Casos com 2,5% - Londrina](Dash300_25pct_03Mar21.html) ;
 [Projeção 300 Casos com 3,5% - Londrina](Dash300_35pct_03Mar21.html) ;
-[Curvas do R0 - Londrina](DashCurvas_03Mar21.html) ;
+[Curvas do Rt - Londrina](DashCurvas_03Mar21.html) ;
 [Razão Mensal](RazaoMensal_03Mar21.html)
 
 ****
@@ -191,8 +191,8 @@ Semana 02/03/2021 - 09/03/2021
 
  [Casos Internação - UTI](CasosUTI_09Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_09Mar21.html) ; [Projeção - 350 Casos - 17a RS](DashRegional350_09Mar21.html) ;
 [Projeção 250 Casos - Londrina](Dash250Casos_09Mar21.html) ;
-[Curvas do R0 = 1,10 - Londrina](DashR01110_09Mar21.html) ;
-[Curvas do R0 - Londrina](DashR0Casos_09Mar21.html) ;
+[Curvas do Rt = 1,10 - Londrina](DashR01110_09Mar21.html) ;
+[Curvas do Rt - Londrina](DashR0Casos_09Mar21.html) ;
 [Razão Mensal](RazaoMensal_09Mar21.html)
 
 ****
@@ -200,7 +200,7 @@ Semana 02/03/2021 - 09/03/2021
 Semana 09/03/2021 - 16/03/2021
 
 [Casos Internação - UTI](CasosUTI_16Mar21.html) ; [Casos Internação - Enfermaria](CasosEnf_16Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_16Mar21.html) ; [Projeção 250 Casos - Londrina](Dash250Casos_16Mar21.html) ;
-[Curvas do R0 = 1,08 - Londrina](DashR108_16Mar21.html) ;
+[Curvas do Rt = 1,08 - Londrina](DashR108_16Mar21.html) ;
 [Projeção - 17a RS](DashReg_16Mar21.html) ;
 [Óbitos por 100.000 hab](Obitos100__16Mar21.html) ;
 [Saldo - Casos - 100.000 hab](SaldoCasos100_16Mar21.html) ;
@@ -212,7 +212,7 @@ Semana 16/03/2021 - 23/03/2021
 
  [Casos Internação - UTI](CasosUti_23Mar21.html) ; [Casos Internação - Enfermaria](CasosEnf_23Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_23Mar21.html) ; [Projeção 250 Casos - Londrina](Dash250_23Mar21.html) ;
 [Projeção 300 Casos - Londrina](Dash300_23Mar21.html) ;
-[Curvas do R0 = 1,05 - Londrina](ProjR105_23Mar21.html) ;
+[Curvas do Rt = 1,05 - Londrina](ProjR105_23Mar21.html) ;
 [Projeção - 17a RS](DashReg_23Mar21.html) ;
 [Casos - 17a RS](CasosReg_23Mar21.html) ;
 [Razão Mensal](RazaoMensal_23Mar21.html)
@@ -223,8 +223,8 @@ Semana 23/03/2021 - 30/03/2021
 
  [Casos Internação - UTI](CasosUTI_30Mar21.html) ; [Casos Internação - Enfermaria](CasosEnf_30Mar21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_30Mar21.html) ; [Projeção 225 Casos em 14 dias - Londrina](Dash22514Dias_30Mar21.html) ;
 [Projeção 250 Casos em 14 dias - Londrina](Dash25014Dias_30Mar21.html) ;
-[Curvas do R0 = 1,05 - Londrina](DashCurvasR0105_30Mar21.html) ;
-[Curvas do R0 = 1,01 - Londrina](DashR101_30Mar21.html) ;
+[Curvas do Rt = 1,05 - Londrina](DashCurvasR0105_30Mar21.html) ;
+[Curvas do Rt = 1,01 - Londrina](DashR101_30Mar21.html) ;
 [Projeção - 17a RS](DashReg455_30Mar21.html) ;
 [Casos - 17a RS](CasosReg_30Mar21.html) ;
 [Razão Mensal](RazaoMensal_30Mar21.html)
@@ -235,7 +235,7 @@ Semana 23/03/2021 - 30/03/2021
 Semana 30/03/2021 - 06/04/2021
 
  [Casos Internação - UTI](CasosUTI_06Abril21.html) ; [Casos Internação - Enfermaria](CasosEnf_06Abril21.html) ; [Casos Média Móvel - Londrina](CasosMediasMoveis_06Abril21.html) ; [Projeção 225 Casos - Londrina](Dash225_06Abril21.html) ;
-[Curvas R0 - Londrina](DashCurvasUpdate_06Abril21.html) ;
+[Curvas Rt - Londrina](DashCurvasUpdate_06Abril21.html) ;
 [Casos - 17a RS](CasosReg_06Abril21.html) ;
 [Projeção - 17a RS](DashReg_06Abril21.html) ;
 [Óbitos por 100.000 hab](Obitos100_06Abril21.html) ;
@@ -253,7 +253,7 @@ Semana 06/04/2021 - 13/04/2021
 [Projeção 225 Casos - Londrina](Dash225New_13Abril21.html) ;
 [Projeção 175 Casos com 3,5% - Londrina](Dash17535pct_13Abril21.html) ;
 [Projeção 175 Casos com 4,0% - Londrina](Dash1754pct_13Abril21.html) ;
-[Curvas R0 - Londrina](DashR099_13Abril21.html) ;
+[Curvas Rt - Londrina](DashR099_13Abril21.html) ;
 [Óbitos por 100.000 hab](Obitos100Mil_13Abril21.html) ;
 [Saldo - Casos - 100.000 hab](Saldo100_13Abril21.html) ;
 [Casos Ativos em Londrina](SaldoCasosLd_13Abril21.html) ;
@@ -267,8 +267,8 @@ Semana 13/04/2021 - 20/04/2021
 [Casos 17a RS](CasosRegional16_20Abril21.html) ;
 [Projeção 150 Casos - Londrina](Dash150Casos_20Abril21.html) ;
 [Projeção 175 Casos com 4,0% - Londrina](Dash175pct4_20Abril21.html) ;
-[Curvas R0 - Londrina](DashCurvas_20Abril21.html) ;
-[Curvas R0 = 0,94 - Londrina](DashR094_20Abril21.html) ;
+[Curvas Rt - Londrina](DashCurvas_20Abril21.html) ;
+[Curvas Rt = 0,94 - Londrina](DashR094_20Abril21.html) ;
 [Saldo - Casos - 100.000 hab](Saldo100_20Abril21.html) ;
 [Casos Ativos em Londrina](GrafSaldo_20Abril21.html) ;
 [Razão Mensal](RazaoMensal_20Abril21.html)
