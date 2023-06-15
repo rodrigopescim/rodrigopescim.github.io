@@ -59,7 +59,7 @@ Esse contexto vivido na atualidade vem mostrar a necessidade de informações pr
 
 **Sars-CoV-2** é o novo coronavírus identificado como agente etiológico da **doença pelo coronavírus 2019 (COVID-19)**. O primeiro caso da pandemia pelo novo coronavírus foi identificado em Wuhan, na China, no dia 31 de dezembro de 2019. Desde então, os casos começaram a se espalhar rapidamente pelo mundo.  No dia **12 de março de 2020** os seis primeiros casos da COVID-19 foram confirmados no estado do Paraná. 
 
-Diante a disseminação da doença, o integrantes do **projeto BRData** tem buscado junto as **secretarias de saúde de Londrina/PR, Arapongas/PR e da 17$^{a}$ Regional de Saúde do Paraná** apresentar informações relevantes e confiáveis, por meio de análises estatística de dados sobre a COVID-19. 
+Diante a disseminação da doença, o integrantes do **projeto BRData** tem buscado junto as **secretarias de saúde de Londrina/PR, Arapongas/PR e da 17$^{a}$ Regional de Saúde do Paraná** apresentar informações relevantes e confiáveis, por meio de análises estatística de dados da COVID-19. 
 
 ****
 
