@@ -33,7 +33,7 @@ code.r, pre {font-size: 14px;
 
 <div style="column-count: 2;">
 
-![](brdata.png)
+![](bioestatistica.jpg)
 
 O **BRData - Brasil em Dados** é um projeto de extensão universitária vínculado ao [Departamento de Estatística](http://www.uel.br/cce/dsta/portal/) do Centro de Ciências Exatas (CCE) da [Universidade Estadual de Londrina](https://portal.uel.br/home/) (UEL) que tem por objetivo apresentar informações fidedignas e projeções futuras de conteúdos relacionados as áreas da saúde, educação, economia e meio ambiente do Brasil, com ênfase no estado do Paraná e na cidade de Londrina, por meio de análise e modelagem estatística dos dados.
 
