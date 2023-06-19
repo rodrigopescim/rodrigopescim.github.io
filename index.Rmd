@@ -464,7 +464,7 @@ Semana 06/07/2021 - 13/07/2021
 [Casos Ativos - 100.000 hab - Londrina](Saldo100_13Julho21.html) ;
 [Óbitos Acumulados - 100.000 hab - Londrina](Obitos100_13Julho21.html) ;
 [Óbitos Diá¡rios - 100.000 hab - Londrina](ObitosDiarios100_13Julho21.html) ;
-[Média MóÂ³vel - Óbitos - Londrina](ObitosMediasMoveis_13Julho21.html) ;
+[Média Móvel - Óbitos - Londrina](ObitosMediasMoveis_13Julho21.html) ;
 [Razão Mensal](RazaoMensal_13Julho21.html)
 
 ****
@@ -1034,6 +1034,15 @@ Semana 22/11/2022 - 29/11/2022
 
 ****
 
+## BRData nas Mídias
+
+****
+
+[Boletins BRData no Facebook] e [Boletins BRData no Instagram]
+
+
+****
+
 ## Equipe
 
 ****
@@ -1054,6 +1063,8 @@ Rodrigo Rossetto Pescim \ (Professor do [Departamento de Estatística] - UEL)
 
 <!-- links -->
 
+[Boletins BRData no Facebook]: https://www.facebook.com/BRDataBoletinsCovid19
+[Boletins BRData no Instagram]: https://www.instagram.com/brdata_boletins_covid_19/
 [COVID-19]: https://pt.wikipedia.org/wiki/COVID-19
 [Sars-CoV-2]: https://en.wikipedia.org/wiki/SARS-CoV-2
 [17$^{a}$ Regional de Saúde do estado do Paraná]: https://www.saude.pr.gov.br/Pagina/17a-Regional-de-Saude-Londrina
